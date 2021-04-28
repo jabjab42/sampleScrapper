@@ -1,0 +1,3832 @@
+{
+  "restaurantInfos": [
+    {
+      "name": "Pancook",
+      "ranking": "Nº 1/104",
+      "details": [
+        {
+          "Infos pratiques": "Voici le petit frère du Pancook lille (rue Colbert), qui s'installe à Roubaix, capitale régionale de la mode et de la technologie. Le PANCOOK Rbx propose de faire (re)découvrir la vraie cuisine régionale et maison. Tous nos produits sont réalisés sur-place et frais, l'ambiance est chic et décontractée. La spécialité est le \"PANCOOK\", un pain surprise qui change de recette chaque mois."
+        },
+        {
+          "FOURCHETTE DE PRIX": "7€ - 22€",
+          "CUISINES": "Française, Européenne",
+          "Régimes spéciaux": "Végétariens bienvenus, Choix végétaliens",
+          "Repas": "Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Wi-Fi gratuit"
+        }
+      ],
+      "address": "3 Place de la Gare, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d12855588-Reviews-Pancook-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://pancook.fr/",
+      "number": "+33 3 20 28 15 92",
+      "contacts": {
+        "email": ["contact@pancook.fr", "contact@pancook-restaurant-lille.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/pancooklille",
+          "https://www.facebook.com/pancookrbx",
+          "https://www.facebook.com/255875737851076",
+          "https://www.facebook.com/mairie.roubaix"
+        ],
+        "website": ["http://pancook.fr/", "http://www.pancook.fr"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/alexi-vincent-a95b7b1a8/",
+          "https://fr.linkedin.com/in/jeanne-casterman-7b78a81b0"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Pierre-Benoit CASTERMAN",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Pierre-Benoit.CASTERMAN.22069720.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/pierre-benoit-casterman-ab38a139"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Table d'Isabelle",
+      "ranking": "Nº 2/104",
+      "details": [
+        { "Infos pratiques": "table d'hôtes sur reservation" },
+        {
+          "FOURCHETTE DE PRIX": "20€ - 25€",
+          "CUISINES": "Française",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Service de livraison, Plats à emporter, Réservations, Terrasse, Places assises, Sert de l'alcool, Paiement en espèces seulement, Service de table, Salle privée, Bar complet"
+        }
+      ],
+      "address": "22 Rue Henry Bossut, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7898822-Reviews-La_Table_d_Isabelle-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/La-table-dIsabelle-1450866391803890/",
+      "number": "+33 6 75 84 31 00",
+      "contacts": {
+        "email": ["latabledisabelle@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/La-table-dIsabelle-1450866391803890"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/isabelle-roux-a0a373100/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Isabelle SAMIEZ",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Isabelle.SAMIEZ.58560722.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Rivoli",
+      "ranking": "Nº 3/104",
+      "details": [
+        {
+          "CUISINES": "Française, Européenne",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "10 Grand place, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1335555-Reviews-Le_Rivoli-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 73 80 07",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/264710183607086",
+          "https://www.facebook.com/168976549819329",
+          "https://www.facebook.com/thaigourmetroubaix",
+          "https://www.facebook.com/roubaixshopping"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Le R de Roubaix",
+      "ranking": "Nº 4/104",
+      "details": [
+        {
+          "Infos pratiques": "Le restaurant Le R vous accueille dans un cadre élégant et raffiné. Ses boiseries et ses tons gris taupe lui confèrent une ambiance chaleureuse : on s’y sent comme chez soi. C’est confortablement installé au bar ou en salle que l’on a plaisir à boire un verre ou manger dans ce lieu de convivialité. Son ardoise vous propose une cuisine savoureuse et de saison. Ne manquez pas les spécialités du chef qui changent au grés des saisons. Sa clientèle d’habitués apprécie particulièrement sa carte, dont deux plats changent tous les jours. Le R est ouvert du lundi au vendredi midi ainsi que le jeudi et le vendredi soir. Il vous reçoit dans une ambiance conviviale et vous propose de privatiser le petit salon ou le restaurant pour vos déjeuners d’affaire."
+        },
+        {
+          "FOURCHETTE DE PRIX": "15€ - 30€",
+          "CUISINES": "Française, Européenne",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Salle privée, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "80 boulevard de la Republique, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d4497217-Reviews-Le_R_de_Roubaix-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lerderoubaix.com/",
+      "number": "+33 3 20 70 46 56",
+      "contacts": {
+        "email": ["r.roubaix@yahoo.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/316516381788218",
+          "https://www.facebook.com/Le-R-de-Roubaix-213850768818736",
+          "https://www.facebook.com/Le-R-316516381788218",
+          "https://www.facebook.com/Le-R-1023887081051141"
+        ],
+        "website": ["http://www.lerderoubaix.com/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/j%C3%A9r%C3%B4me-degrave-3201556a/",
+          "https://fr.linkedin.com/in/aliz%C3%A9-doucet-638aa91b2",
+          "https://fr.linkedin.com/in/alize-doucet-139aa81b2"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Coopérative Baraka",
+      "ranking": "Nº 5/104",
+      "details": [
+        {
+          "Infos pratiques": "Frais maison, essentiellement bio (sauf viande et produits laitiers), local autant que possible et inventif ! Bien manger et se faire du bien."
+        },
+        {
+          "FOURCHETTE DE PRIX": "2€ - 12€",
+          "CUISINES": "Française, Européenne, Fusion",
+          "Régimes spéciaux": "Végétariens bienvenus, Choix végétaliens",
+          "Repas": "Déjeuner, Boissons",
+          "FONCTIONNALITÉS": "Places assises, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Accepte les cartes bancaires, Buffet, Stationnement dans la rue, Bières & Vins, Service de table"
+        }
+      ],
+      "address": "20, rue de Sébastopol, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d3802438-Reviews-Cooperative_Baraka-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://cooperativebaraka.fr/-Restaurant-menu-",
+      "number": "+33 3 20 65 74 14",
+      "contacts": {
+        "email": [
+          "contact@cooperativebaraka.fr",
+          "gerance@cooperativebaraka.fr"
+        ],
+        "facebookUrl": ["https://www.facebook.com/hoppyurbanbrew"],
+        "website": ["http://cooperativebaraka.fr/-Restaurant-menu-"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/anne-mroz-decroix-beugin-574a78a/",
+          "https://www.linkedin.com/in/nathalieduparque/",
+          "https://www.linkedin.com/in/maeva-brahimi-97297699/",
+          "https://www.linkedin.com/in/st%C3%A9phanie-lamarche-palmier/",
+          "https://www.linkedin.com/in/th%C3%A9o-finck-5b1197163/",
+          "https://www.linkedin.com/in/david-hadoux/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Vincent BOUTRY",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Vincent.BOUTRY.55612820.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Petite Cour",
+      "ranking": "Nº 6/104",
+      "details": [
+        {
+          "Infos pratiques": "CONTEMPORAIN - Vous cherchez une table gourmande au centre-ville de Roubaix ? Offrez-vous une escale au restaurant La Petite Cour : des saveurs traditionnelles, des produits locaux, frais et de qualité, un cadre tendance et spacieux pour accueillir votre bande de copains, et même une terrasse intérieure pour profiter des premiers rayons de soleil. Tout un programme ! OUI À LA TRADI ! - Ici, pas de chichis. Les petits plats sont emprunts de simplicité, les spécialités locales flirtent avec les classiques frenchy. Œuf cocotte au maroilles, hamburger maison, tartare de fruits frais pour la note de fraîcheur… CENTRE-VILLE - A quelques pas de l’ESAAT et du musée La Piscine, voilà un spot idéal pour organiser une réception privée. A vos réservations ! NOS ACTIVITES - Notre activité principale est la restauration traditionnelle mais nous proposons également de privatiser notre restaurant à l'occasion d'évènements comme des mariages, baptêmes, anniversaires, repas d'équipe, séminaires et autres...."
+        },
+        {
+          "FOURCHETTE DE PRIX": "10€ - 19€",
+          "CUISINES": "Française, Européenne, Brasserie gastronomique",
+          "Régimes spéciaux": "Végétariens bienvenus, Choix végétaliens",
+          "Repas": "Déjeuner, Dîner, Brunch, Ouvert tard",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Terrasse, Salle privée, Places assises, Stationnement dans la rue, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Bières & Vins, American Express acceptée, Mastercard acceptée, Visa acceptée, Accepte les cartes bancaires, Service de table, Bar complet, Wi-Fi gratuit"
+        }
+      ],
+      "address": "57 Rue Nain, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5800845-Reviews-La_Petite_Cour-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/lapetitecour59",
+      "number": "+33 6 58 63 08 19",
+      "contacts": {
+        "email": ["ja.lapetitecour@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/lapetitecour59"],
+        "website": ["http://www.la-petite-cour.fr"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/nadjim-cherifi-962840b0",
+          "https://www.linkedin.com/in/camille-allaert-14636412/",
+          "https://www.linkedin.com/in/marine-wemaere-86a29b65/",
+          "https://www.linkedin.com/in/ineshasni/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Brahim FEDJKHI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Brahim.FEDJKHI.52264082.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thaï Gourmet",
+      "ranking": "Nº 7/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "9€ - 12€",
+          "CUISINES": "Thaï, Asiatique",
+          "Régimes spéciaux": "Végétariens bienvenus, Plats sans gluten",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Terrasse, Places assises, Service de table"
+        }
+      ],
+      "address": "7 rue de l Epeule, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10094532-Reviews-Thai_Gourmet-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/thaigourmetroubaix/?ref=aymt_homepage_panel",
+      "number": "+33 6 95 06 40 45",
+      "contacts": {
+        "email": ["contact.thaigourmet@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/thaigourmetroubaix"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Stephanie BOUNKHAM",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Stephanie.BOUNKHAM.51046220.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/stephanie-bounkham-2a347157"
+            ],
+            "fbExec": []
+          },
+          {
+            "execName": "Wasana SRIPHO",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Wasana.SRIPHO.79962807.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chez Joe's",
+      "ranking": "Nº 1/2",
+      "details": [
+        {
+          "CUISINES": "Américaine, Restauration rapide",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "22 Mail de Lannoy, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7812839-Reviews-Chez_Joe_s-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/restaurantchezjoes/",
+      "number": "+33 9 84 56 91 04",
+      "contacts": {
+        "email": ["contact@chezjoes.fr"],
+        "facebookUrl": ["https://www.facebook.com/restaurantchezjoes"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Étoile de Damas",
+      "ranking": "Nº 8/104",
+      "details": [
+        {
+          "CUISINES": "Libanaise, Arabe, Moyen-Orient, Méditerranéenne",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "112 avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13955830-Reviews-Etoile_de_Damas-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://letoile-syrienne-restaurant-roubaix.eatbu.com/?lang=fr",
+      "number": "+33 7 58 39 36 15",
+      "contacts": {
+        "email": ["raadz67@hotmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/roubaixweb",
+          "https://www.facebook.com/L%C3%A9toile-syrienne-101354877911401",
+          "https://www.facebook.com/roubaixquibouge",
+          "https://www.facebook.com/Weotnt"
+        ],
+        "website": [
+          "http://letoile-syrienne-restaurant-roubaix.eatbu.com/?lang=fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Malick DOUROU",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Malick.DOUROU.56662005.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "LOFT 122",
+      "ranking": "Nº 9/104",
+      "details": [
+        {
+          "Infos pratiques": "C'est dans une usine textile située au cœur du quartier de l’Union que le Loft 122 a pris place il y a 5 ans. Notre chef vous propose un voyage culinaire dans un cadre qui sort de l’ordinaire Des saveurs qui s’inspirent de la world food et une carte qui mise sur des valeurs sûres Une vaste terrasse vous accueille les jours où la météo flirte avec le soleil Le LOFT 122 dispose maintenant d’une salle de 60 m² équipée d’un vidéo projecteur pour vos séminaires Grand parking privé à disposition"
+        },
+        {
+          "FOURCHETTE DE PRIX": "17€ - 45€",
+          "CUISINES": "Française, Européenne",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Parking privé gratuit, Accès personnes handicapées, Sert de l'alcool, Bar complet, Mastercard acceptée, Visa acceptée, Paiements électroniques, Accepte les cartes bancaires, Service de table, Parking, Stationnement pour clientèle, Chaises hautes disponibles, Wi-Fi gratuit"
+        }
+      ],
+      "address": "120 Rue de Tourcoing, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d3256488-Reviews-LOFT_122-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/loft122",
+      "number": "+33 3 20 26 04 04",
+      "contacts": {
+        "email": ["contact@loft122.fr", "lecomptoirduloft@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/loft122"],
+        "website": ["http://www.loft122.fr"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/m%C3%A9lany-pinart-24759a19b/",
+          "https://www.linkedin.com/in/ludovic-catteau-6b1435111/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Ludovic CATTEAU",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Ludovic.CATTEAU.16350502.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/ludovic-catteau-6b1435111"
+            ],
+            "fbExec": ["https://www.facebook.com/ludovic.catteau.7"]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Karl",
+      "ranking": "Nº 10/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "14€ - 19€",
+          "CUISINES": "Française, Moderne, Brasserie gastronomique",
+          "Repas": "Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table, Sert de l'alcool"
+        }
+      ],
+      "address": "17 rue du Vieil Abreuvoir, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d19484911-Reviews-Le_Karl-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://m.facebook.com/pages/category/French-Restaurant/LE-KARL-121687575892980/",
+      "number": "+33 3 20 65 31 23",
+      "contacts": {
+        "email": ["lekarl.roubaix@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/LE-KARL-121687575892980"],
+        "website": ["https://le-karl-restaurant-roubaix.eatbu.com/?lang=fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Agathe LENGAGNE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Agathe.LENGAGNE.66367802.html",
+            "fbExec": []
+          },
+          {
+            "execName": "Kevin ROMBEAUT",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Kevin.ROMBEAUT.20465750.html",
+            "linkedInLink": [],
+            "fbExec": [
+              "https://www.facebook.com/kevin.rombeaut.75",
+              "https://www.facebook.com/Kevin-Rombeaut"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "IL Bacaro",
+      "ranking": "Nº 11/104",
+      "details": [
+        {
+          "CUISINES": "Italienne, Bar à vins, Européenne",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, American Express acceptée, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Réservations, Places assises, Chaises hautes disponibles, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Accès personnes handicapées"
+        }
+      ],
+      "address": "127 avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d6378684-Reviews-IL_Bacaro-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/ilbacaro.fr/",
+      "number": "+33 3 20 27 45 66",
+      "contacts": {
+        "email": ["ilbacarorbx@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/ilbacaro.fr"],
+        "website": [],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/christophe-bayart-806a5142/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Jean-Francois BOUDAILLIEZ",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Jean-Francois.BOUDAILLIEZ.32266014.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Brasserie le Metropolitain",
+      "ranking": "Nº 12/104",
+      "details": [
+        {
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "121 avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7255925-Reviews-Brasserie_le_Metropolitain-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 70 47 04",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/320490324671135",
+          "https://www.facebook.com/lavoixdunord.roubaix",
+          "https://www.facebook.com/roubaixshopping",
+          "https://www.facebook.com/metropolitain.rbx"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Grande Brasserie de l'Impératrice Eugénie",
+      "ranking": "Nº 13/104",
+      "details": [
+        {
+          "Infos pratiques": "La Grande Brasserie Impératrice Eugénie est un lieu mythique et incontournable de l'Histoire de Roubaix. La Grande Brasserie Impératrice Eugénie situé en plein cœur du centre-ville de Roubaix vous propose de vous retrouver dans un cadre élégant, en famille, entre amis ou pour un rendez-vous d'affaire, autour d'une cuisine traditionnelle, simple mais de qualité. A bientôt à La Grande Brasserie Impératrice Eugénie."
+        },
+        {
+          "CUISINES": "Française, Belge, Bar, Européenne",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Terrasse, Parking, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Réservations, Places assises, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "22 Place de la Liberte, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d3953543-Reviews-La_Grande_Brasserie_de_l_Imperatrice_Eugenie-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.brasserie-imperatriceeugenie.fr/",
+      "number": "+33 3 28 33 75 95",
+      "contacts": {
+        "email": ["imperatriceeugenie@orange.fr"],
+        "facebookUrl": ["https://www.facebook.com/1462773764024950"],
+        "website": ["http://www.brasserie-imperatriceeugenie.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Vincent LELIEUR",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Vincent.LELIEUR.76780502.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Al Hamra",
+      "ranking": "Nº 14/104",
+      "details": [
+        {
+          "Infos pratiques": "AL HAMRA est un restaurant indien pakistanais situé en plein coeur de roubaix. Une cuisine qui vous fera voyager dans un cadre sobre et classe. Nos cuisiniers passionnés par leur métier vous feront vibrer les papilles. N hésitez pas à réserver vos tables ,pour un dîner en amoureux ou pour fêter un grand événement le restaurant AL HAMRA vous accueil du lundi au samedi.fermer le dimanche."
+        },
+        {
+          "FOURCHETTE DE PRIX": "9€ - 25€",
+          "CUISINES": "Indienne, Pakistanaise",
+          "Régimes spéciaux": "Végétariens bienvenus, Choix végétaliens, Halal",
+          "Repas": "Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Bières & Vins, Mastercard acceptée, Visa acceptée, Paiement en espèces seulement, Wi-Fi gratuit, Service de table, Terrasse, Télévision, Chaises hautes disponibles, Bar complet"
+        }
+      ],
+      "address": "28 Grand Place, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10302740-Reviews-Al_Hamra-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://alhamra.fr/",
+      "number": "+33 3 66 19 15 70",
+      "contacts": {
+        "email": ["alhamra001@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/alhamraresto"],
+        "website": ["http://alhamra.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Manan ABDUL",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Manan.ABDUL.08234688.html",
+            "linkedInLink": [],
+            "fbExec": ["https://www.facebook.com/manan.abdul.399"]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Flam's",
+      "ranking": "Nº 15/104",
+      "details": [
+        {
+          "Infos pratiques": "Venez savourer à plusieurs, en famille ou seul l'une de nos Flammekueches Alsaciennes allant de la traditionnelle à nos plus belles découvertes."
+        },
+        {
+          "FOURCHETTE DE PRIX": "8€ - 16€",
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner, Ouvert tard, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table, Stationnement dans la rue, Télévision, Chaises hautes disponibles, Bar complet, Bières & Vins, Wi-Fi gratuit, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "37 Boulevard du Général Leclerc, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13349901-Reviews-Flam_s-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.flams.fr/",
+      "number": "+33 3 20 45 00 00",
+      "contacts": {
+        "email": ["roubaix@flams.fr"],
+        "facebookUrl": ["https://www.facebook.com/FlamsOfficiel"],
+        "website": ["http://www.flams.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/cl%C3%A9mence-vanneste-71104b5b/",
+          "https://www.linkedin.com/in/romain-richard-1b57b4100/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Eric SENET",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Eric.SENET.48235206.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/ericsenet",
+              "https://rc.linkedin.com/in/ericsenet/de",
+              "https://fr.linkedin.com/in/ericsenet/zh-cn",
+              "https://fr.linkedin.com/in/eric-senet-295a80107"
+            ],
+            "fbExec": ["https://www.facebook.com/eric.senet.7"]
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Bulle Du 27",
+      "ranking": "Nº 16/104",
+      "details": [
+        {
+          "CUISINES": "Française",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Brunch, Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Accès personnes handicapées, Places assises, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "27 rue de l Esperance, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8769395-Reviews-La_Bulle_Du_27-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/La-bulle-du-27-883682915055709",
+      "number": "+33 6 46 84 84 92",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/La-bulle-du-27-883682915055709"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Yann CAUVIN",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Yann.CAUVIN.77220604.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "L'Alimentation - Restaurant de l'Oiseau-Mouche",
+      "ranking": "Nº 17/104",
+      "details": [
+        {
+          "Infos pratiques": "Situé au cœur de LA CONDITION PUBLIQUE, l’Alimentation est l’un des deux restaurants de la Compagnie de l’Oiseau-Mouche. Il ouvre ses portes en 2012. La particularité de l’Alimentation ? Le restaurant s’inscrit dans un projet de valorisation de compétences des personnes en situation de handicap, qu’il forme aux métiers de la cuisine et du service en salle. L’Alimentation propose une cuisine bistronomique réinterprétant avec originalité et finesse les plats traditionnels. Fidèle à l’esprit citoyen de l’Oiseau-Mouche, la carte est renouvelée régulièrement afin de tirer profit de produits frais et de saison. Pour les groupes et séminaires, l’équipe de l’Alimentation est à votre disposition afin de vous proposer une formule personnalisable qui correspondra le mieux à votre attente."
+        },
+        {
+          "FOURCHETTE DE PRIX": "12€ - 20€",
+          "CUISINES": "Française",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Accès personnes handicapées, Mastercard acceptée, Visa acceptée, Service de table, Sert de l'alcool"
+        }
+      ],
+      "address": "14 Place Faidherbe, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7693478-Reviews-L_Alimentation_Restaurant_De_L_Oiseau_Mouche-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.oiseau-mouche.org/restaurant/lalimentatio",
+      "number": "+33 3 20 72 48 81",
+      "contacts": {
+        "email": [
+          "lalimentation@oiseau-mouche.org",
+          "contact@oiseau-mouche.org"
+        ],
+        "facebookUrl": ["https://www.facebook.com/AlimentationOiseauMouche"],
+        "website": ["http://www.oiseau-mouche.org/restaurant/lalimentatio"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Parenthvse",
+      "ranking": "Nº 18/104",
+      "details": [
+        {
+          "Infos pratiques": "La Parenthèse vous accueille au 39 rue du Vieil Abreuvoir, derrière l'église Saint-Martin-Notre-Dame. A proximité de l'Hôtel de Ville et du Centre Commercial Espace Grand'Rue, vous vous trouverez en plein centre-ville de Roubaix, desservi par le métro, arrêt Grand Place. Nous sommes ouvert du lundi au vendredi midi ainsi que le vendredi et samedi soir mais il est possible d'organiser vos événements en dehors de ces horaires. Venez découvrir notre cuisine de marché et de saison dans un cadre et une ambiance conviviale. N'hésitez plus, nous vous attendons. A bientôt."
+        },
+        {
+          "CUISINES": "Française, Européenne",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table, Terrasse"
+        }
+      ],
+      "address": "37 Rue du Vieil Abreuvoir, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1759173-Reviews-La_Parenthese-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.la-parenthese-roubaix.fr/",
+      "number": "+33 3 20 37 80 41",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/la.parenthese.roubaix",
+          "https://www.facebook.com/timeline"
+        ],
+        "website": [
+          "http://www.la-parenthese-roubaix.fr/",
+          "http://www.la-parenthese-roubaix.fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Francisco DOS_SANTOS_RAMALHO",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Francisco.DOS_SANTOS_RAMALHO.70274026.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harold's Food & Coffee",
+      "ranking": "Nº 19/104",
+      "details": [
+        {
+          "Régimes spéciaux": "Végétariens bienvenus, Choix végétaliens",
+          "Repas": "Petit déjeuner, Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Plats à emporter, Places assises, Terrasse, Parking, Stationnement dans la rue, Sert de l'alcool, Paiements électroniques, Wi-Fi gratuit, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "88 avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5584451-Reviews-Harold_s_Food_Coffee-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.dood.com/shop/haroldsfoodandcoffee",
+      "number": "+33 7 86 92 53 24",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/doodcompany"],
+        "website": ["http://www.dood.com/shop/haroldsfoodandcoffee"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/charlotte-joly-1444282a/",
+          "https://www.linkedin.com/in/hubert-warot-49544a1a5/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Hubert WAROT",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Hubert.WAROT.02674232.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/hubert-warot-49544a1a5"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Café Jean",
+      "ranking": "Nº 20/104",
+      "details": [
+        {
+          "Infos pratiques": "La brasserie Café Jean est située au , proche du concessionnaire Peugeot-Sian, de l’espace culturel La Condition Publique, du Centre Commercial Mc Arthur Glen et de la station de métro Eurotéléport de Roubaix. La brasserie Café Jean vous propose une cuisine traditionnelle, fait maison, avec des plats du jour ou à la carte. Le pain, le jambon et le pâté sont préparés par nos soins, le saumon fumé maison et la viande labellisée. Chaque jour, avant votre repas, la brasserie Café Jean aura le plaisir de vous offrir généreusement une soupe maison. Nous proposons aussi de l’hébergement, allant de la nuitée jusqu’à la pension complète. Pour connaître nos tarifs ou pour de plus amples informations n’hésitez pas à nous contacter. A bientôt chez Café Jean !"
+        },
+        {
+          "FOURCHETTE DE PRIX": "11€ - 24€",
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Petit déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Parking, Stationnement dans la rue, American Express acceptée, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Terrasse, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "230 Boulevard Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7837433-Reviews-Cafe_Jean-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.cafejeanroubaix.fr/",
+      "number": "+33 3 20 73 95 23",
+      "contacts": {
+        "email": ["cafejeanroubaix@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/cafejeanroubaix",
+          "https://www.facebook.com/cestmeilleurquandcestbon"
+        ],
+        "website": [
+          "http://www.cafejeanroubaix.fr/",
+          "http://www.cafejeanroubaix.fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Vincent PASCAL",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Vincent.PASCAL.45609820.html",
+            "linkedInLink": [],
+            "fbExec": [
+              "https://www.facebook.com/lecafejean.lille",
+              "https://www.facebook.com/vincent.pascal.501"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fer A Cheval",
+      "ranking": "Nº 21/104",
+      "details": [
+        {
+          "CUISINES": "Française, Steakhouse, Barbecue/Grillades, Européenne",
+          "Repas": "Déjeuner, Dîner, Ouvert tard",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Parking, Stationnement pour clientèle, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "116 avenue Jean Jaures, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d2275348-Reviews-Fer_A_Cheval-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://leferacheval-restaurant.com/",
+      "number": "+33 3 20 72 65 63",
+      "contacts": {
+        "email": ["contact@leferacheval-restaurant.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Le-Fer-%C3%A0-Cheval-The-Place-to-Be-190870784288392"
+        ],
+        "website": ["http://leferacheval-restaurant.com/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/simon-masclef-b2a67b13a/",
+          "https://www.linkedin.com/in/edouard-liagre/",
+          "https://www.linkedin.com/in/ioannis-kaloudis-6388b846/",
+          "https://www.linkedin.com/in/lise-courmont-/",
+          "https://www.linkedin.com/in/alicia-hue-222005151/",
+          "https://www.linkedin.com/in/said-ghardane-679348122/",
+          "https://www.linkedin.com/in/nathalie-ghesquiere-dierickx-84680225/",
+          "https://www.linkedin.com/in/jean-luc-herv%C3%A9-%C2%A9-martinetti-dubuisson-europa-union-paris-3191892b/",
+          "https://fr.linkedin.com/in/jean-vianney-duquesnoy-634ba61b2"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Gregory SELOSSE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Gregory.SELOSSE.36870722.html",
+            "linkedInLink": [],
+            "fbExec": [
+              "https://www.facebook.com/gregory.selosse",
+              "https://www.facebook.com/Gregory-Selosse"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chez Charlotte",
+      "ranking": "Nº 22/104",
+      "details": [
+        {
+          "Infos pratiques": "Entre la gare et le musée « la piscine »Chez Charlotte, restaurant, bar à tartines, salon de thé. Nous vous recevons, dans un cadre chaleureux, un peu comme à la maison.Nous mettons à l’honneur les tartines, souvenir d’enfance, du petit déjeuner au gouter. Garnies avec créativité, elles se dégustent du bout des doigts, c’est permis ! Nous proposons aussi des soupes, une quiche, un p’tit plat cuisiné, des desserts gourmands.Et c’est Charlotte qui cuisine, avec ses influences !« un peu d’ici, un peu d’ailleurs »Chez Charlotte , c’est aussi , des expo à découvrir, une boutique avec des coups de cœur, des gourmandises à offrir, ....c'est un endroit qui permet de faire une pause, de prendre un peu de temps pour soi."
+        },
+        {
+          "CUISINES": "Française, Internationale",
+          "Repas": "Petit déjeuner, Déjeuner, Boissons, Dîner, Brunch",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table, Terrasse, Sert de l'alcool"
+        }
+      ],
+      "address": "74 rue de l Alouette Entre la Gare Et le Musee La Piscine, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d6378685-Reviews-Chez_Charlotte-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/Chez-Charlotte-437925936223904/",
+      "number": "+33 3 20 26 87 33",
+      "contacts": {
+        "email": ["charlotte.tartine@yahoo.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/Chez-Charlotte-437925936223904"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Charlotte LOYOT",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Charlotte.LOYOT.82796590.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le restaurant Meert de Roubaix - La Piscine",
+      "ranking": "Nº 23/104",
+      "details": [
+        {
+          "CUISINES": "Française, Européenne",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Chaises hautes disponibles"
+        }
+      ],
+      "address": "23 rue de l Esperance, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d4975007-Reviews-Le_restaurant_Meert_de_Roubaix_La_Piscine-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.meert.fr/restaurant-roubaix.html",
+      "number": "+33 3 20 01 84 21",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/meert.lille"],
+        "website": ["http://www.meert.fr/restaurant-roubaix.html"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Thierry LANDRON",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Thierry.LANDRON.86852522.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/thierry-landron-a3bb95b6",
+              "https://fr.linkedin.com/pulse/thierry-landron-le-patron-de-la-c%C3%A9l%C3%A9bre-institution-lilloise-talbert"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Broutteux",
+      "ranking": "Nº 24/104",
+      "details": [
+        {
+          "Infos pratiques": "La brasserie LE BROUTTEUX situé au 34 Place de la Liberté, face au métro Eurotéléport, dans le centre-ville de Roubaix, vous accueille tous les jours de la semaine. La brasserie LE BROUTTEUX vous accueille dans une ambiance conviviale et vous propose une cuisine traditionnelle avec des plats régionaux. A bientôt à la brasserie LE BROUTTEUX!"
+        },
+        {
+          "FOURCHETTE DE PRIX": "10€ - 30€",
+          "CUISINES": "Française, Bar, Pub",
+          "Repas": "Petit déjeuner, Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "34 Place de la Liberté, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5517496-Reviews-Le_Broutteux-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lebroutteux.fr/",
+      "number": "+33 3 20 73 47 08",
+      "contacts": {
+        "email": ["restaurant.lebroutteux@orange.fr"],
+        "facebookUrl": ["https://www.facebook.com/Plesk"],
+        "website": ["http://www.lebroutteux.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/kyllian-breton-0702721b7",
+          "https://www.linkedin.com/in/antony-thamrong-8451031b1/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Serge FAUVEL",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Serge.FAUVEL.05622242.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le jb's pub",
+      "ranking": "Nº 25/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "12€ - 50€",
+          "CUISINES": "Française, Bar à bières, Bar",
+          "Repas": "Déjeuner, Ouvert tard, Boissons",
+          "FONCTIONNALITÉS": "Terrasse, Parking, Wi-Fi gratuit, Réservations, Places assises, Bières & Vins, Accepte les cartes bancaires, Accès personnes handicapées, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "12 rue du Marechal Foch, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d6373426-Reviews-Le_Jb_s_Pub-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lejbspub.com/",
+      "number": "+33 6 23 35 94 23",
+      "contacts": {
+        "email": ["jbs.pub@numericable.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/lejbspub",
+          "https://www.facebook.com/187595967956227"
+        ],
+        "website": ["http://www.lejbspub.com/", "http://www.lejbspub.fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Jerome BERNARD",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Jerome.BERNARD.72260520.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fabrica",
+      "ranking": "Nº 26/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "8€ - 25€",
+          "CUISINES": "Européenne, Portugaise",
+          "Repas": "Dîner, Déjeuner, Ouvert tard, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Terrasse, Buffet, Salle privée, Stationnement dans la rue, Chaises hautes disponibles, Bar complet, Bières & Vins, Paiements électroniques, Wi-Fi gratuit"
+        }
+      ],
+      "address": "288 boulevard Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13944809-Reviews-Fabrica-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/fabricafrance/",
+      "number": "+33 7 72 08 68 49",
+      "contacts": {
+        "email": ["contact@restaurant-fabrica.com"],
+        "facebookUrl": ["https://www.facebook.com/fabricafrance"],
+        "website": [],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/amandio-gasalho-849157195/",
+          "https://www.linkedin.com/in/marie-laill%C3%A9-b8a80b184/",
+          "https://www.linkedin.com/in/lucie-damond-04b62527/",
+          "https://www.linkedin.com/in/marcia-weeck-1a82b740/",
+          "https://www.linkedin.com/in/julio-bao-4a926141/",
+          "https://www.linkedin.com/in/vanessa-sagniez-2471331b2/",
+          "https://www.linkedin.com/in/carmenmenendezblanco/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Carlos GASALHO",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Carlos.GASALHO.92265022.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Monsieur M",
+      "ranking": "Nº 1/desserts",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "2€ - 4€",
+          "CUISINES": "Café",
+          "Repas": "Petit déjeuner, Boissons",
+          "FONCTIONNALITÉS": "Places assises, Chaises hautes disponibles, Accès personnes handicapées, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "24 rue de l Hospice, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13911199-Reviews-Monsieur_M-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/Monsieur-M-801649740008837/",
+      "number": "+33 3 74 45 51 31",
+      "contacts": {
+        "email": ["monsieurmcoffee@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/Monsieur-M-801649740008837"],
+        "website": ["https://monsieurmpatisserie.com/collections/boutique"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Madjid DOUALI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Madjid.DOUALI.95962209.html",
+            "linkedInLink": [],
+            "fbExec": []
+          },
+          {
+            "execName": "Abdelrani PUJOL",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Abdelrani.PUJOL.22276442.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Palmeraie",
+      "ranking": "Nº 27/104",
+      "details": [
+        {
+          "Infos pratiques": "Tous nos plats son nés dans les cuisines d'Afrique du Nord. Certains sont le résultat du mariage de la cuisine traditionnelle et de la cuisine marocaine moderne. Nos plats vous invitent au festin marocain qui est l'alliance subtile d'herbes et d'épices rares combinant délicatement goûts et arômes. La cuisine marocaine associe avec raffinement viandes savoureuses à des fruits et légumes gorgés de soleil. À travers ce repas, nous espérons vous accompagner au coeur de l'art de vivre culinaire marocain."
+        },
+        {
+          "FOURCHETTE DE PRIX": "15€ - 25€",
+          "CUISINES": "Marocaine, Méditerranéenne, Moyen-Orient",
+          "Repas": "Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Plats à emporter, Salle privée, Accès personnes handicapées, Bières & Vins"
+        }
+      ],
+      "address": "29 boulevard du General de Gaulle, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d6366333-Reviews-La_Palmeraie-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lapalmeraie-roubaix.fr/",
+      "number": "+33 3 20 73 21 56",
+      "contacts": {
+        "email": ["palmeraie.roubaix@gmail.com"],
+        "facebookUrl": [],
+        "website": ["http://www.lapalmeraie-roubaix.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Garden Food",
+      "ranking": "Nº 28/104",
+      "details": [
+        {
+          "Infos pratiques": "Salades bio, pâtes fraîches, plats sans conservateurs, desserts sans colorants... venez découvrir nos produits sains et équilibrés et tout ça dans le cadre le plus cosy et chaleureux de Roubaix! Faites du bien à votre corps!!!"
+        },
+        {
+          "FOURCHETTE DE PRIX": "9€ - 20€",
+          "CUISINES": "Internationale",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner",
+          "FONCTIONNALITÉS": "Chaises hautes disponibles, Accepte les cartes bancaires, Plats à emporter, Réservations, Places assises, Accès personnes handicapées"
+        }
+      ],
+      "address": "7 Parvis Saint Jean-Baptiste, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13153229-Reviews-Garden_Food-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://garden-food.business.site/",
+      "number": "+33 3 20 94 69 76",
+      "contacts": {
+        "email": ["gardenfoodroubaix@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/Garden-FOOD-144200362807571"],
+        "website": ["http://garden-food.business.site/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/lee-sen-23480659/",
+          "https://www.linkedin.com/in/lalie-monflier-b7b1941ab/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Le SENGLOUANGRATH",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Le.SENGLOUANGRATH.84040620.html",
+            "fbExec": []
+          },
+          {
+            "execName": "Mohamed TAOURI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Mohamed.TAOURI.78686222.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Garage - Restaurant de l'Oiseau-Mouche",
+      "ranking": "Nº 29/104",
+      "details": [
+        {
+          "Infos pratiques": "Le Restaurant Le Garage est l’un des deux restaurants de la Compagnie de l’Oiseau-Mouche, située avenue des Nations Unies à Roubaix. Il a ouvert ses portes en 2001. Le chef et son équipe vous accueillent chaque midi afin de vous faire découvrir une carte qui évolue au gré des saisons et qui se renouvelle toute les semaines. La cuisine est généreuse et s’agrémente de produits locaux, avec des plats aussi plaisants pour les yeux que satisfaisants pour les papilles. A l’écoute de toutes vos envies, Le Garage vous propose aussi des formules complètes et personnalisables. Déjeuners d’affaires, séminaires, assemblées générales, cocktails, événementiels d’entreprise, réceptions, réunions... Nos équipes sont là pour faire de vos événements un moment unique, de A à Z !"
+        },
+        {
+          "FOURCHETTE DE PRIX": "10€ - 18€",
+          "CUISINES": "Française, Moderne",
+          "Repas": "Déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Service de table, Accès personnes handicapées"
+        }
+      ],
+      "address": "28 Avenue des Nations Unies, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d3858694-Reviews-Le_Garage_Restaurant_de_l_Oiseau_Mouche-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.oiseau-mouche.org/restaurant",
+      "number": "+33 3 20 65 96 56",
+      "contacts": {
+        "email": [
+          "contact@oiseau-mouche.org",
+          "lalimentation@oiseau-mouche.org"
+        ],
+        "facebookUrl": ["https://www.facebook.com/AlimentationOiseauMouche"],
+        "website": ["http://www.oiseau-mouche.org/restaurant"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "L' Estrade",
+      "ranking": "Nº 30/104",
+      "details": [
+        {
+          "Infos pratiques": "À 10 mètres du Colisée et de la piscine Thalassa : L'Estrade restaurant. On y redécouvre (ou découvre) les classiques de la restauration Française traditionnelle. Le cadre est original, la fréquentation cosmopolite et familiale. Les plats sont frais et les desserts faits maison ! Notre ambition est simple : proposer une bonne nourriture tout en restant accessible pour tous !"
+        },
+        {
+          "FOURCHETTE DE PRIX": "4€ - 13€",
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Parking, Stationnement dans la rue, Parking privé gratuit, American Express acceptée, Mastercard acceptée, Visa acceptée, Paiements électroniques, Wi-Fi gratuit, Plats à emporter, Terrasse, Chaises hautes disponibles, Accès personnes handicapées, Accepte les cartes bancaires, Service de table"
+        }
+      ],
+      "address": "54 rue de l'Epeule, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10004710-Reviews-L_Estrade_Restaurant-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.restaurant-lestrade.fr/",
+      "number": "+33 3 62 52 14 96",
+      "contacts": {
+        "email": ["mustafaz@hotmail.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/RestaurantLEstrade",
+          "https://www.facebook.com/LEstrade-1528198980807054"
+        ],
+        "website": [
+          "http://www.restaurant-lestrade.fr/",
+          "http://www.restaurant-lestrade.fr"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/l-estrade-restaurant-640539116/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Les Hammadites",
+      "ranking": "Nº 31/104",
+      "details": [
+        {
+          "Infos pratiques": "Nous sommes ouvert depuis 32 ans. spécialité Couscous, Tajines (sur réservation le weekend) et grillades. soirée dansante tous les vendredis et Samedis soirs (sur réservations)"
+        },
+        {
+          "FOURCHETTE DE PRIX": "13€ - 30€",
+          "CUISINES": "Grillades, Française, Barbecue/Grillades, Moyen-Orient",
+          "Repas": "Ouvert tard, Boissons, Déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Parking, Stationnement dans la rue, Stationnement pour clientèle, Bar complet, Bières & Vins, Mastercard acceptée, Visa acceptée, Paiements électroniques, Wi-Fi gratuit, Plats à emporter, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "45, Rue du Chemin de Fer BP 163, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d3896736-Reviews-Les_Hammadites-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.leshammadites.fr/",
+      "number": "+33 3 20 70 40 49",
+      "contacts": {
+        "email": ["contact@leshammadites.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/leshammadites",
+          "https://www.facebook.com/Hammadites"
+        ],
+        "website": [
+          "http://www.leshammadites.fr/",
+          "http://www.leshammadites.fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Hotel De France",
+      "ranking": "Nº 32/104",
+      "details": [
+        {
+          "Infos pratiques": "Après 3 années de fermeture et après 6 mois de travaux, déco de type industriel chic et cuisine régionale et bistrot."
+        },
+        {
+          "FOURCHETTE DE PRIX": "9€ - 20€",
+          "CUISINES": "Française, Bar, Pub",
+          "Repas": "Dîner",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Bières & Vins, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Service de table, Parking, Chaises hautes disponibles, Bar complet"
+        }
+      ],
+      "address": "1 Grand Place, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d2520513-Reviews-Hotel_De_France-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.brasserie-hoteldefrance.fr/en",
+      "number": "+33 9 81 42 20 22",
+      "contacts": {
+        "email": ["contact@brasserie-hoteldefrance.fr"],
+        "facebookUrl": ["https://www.facebook.com/lhoteldefrance59100"],
+        "website": ["http://www.brasserie-hoteldefrance.fr/en"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Christophe COINEAU",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Christophe.COINEAU.82570662.html",
+            "linkedInLink": [],
+            "fbExec": []
+          },
+          {
+            "execName": "Joseph COINEAU",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Joseph.COINEAU.33263280.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stupéfiant",
+      "ranking": "Nº 33/104",
+      "details": [
+        { "Infos pratiques": "Restaurant gastronomique." },
+        {
+          "FOURCHETTE DE PRIX": "16€ - 29€",
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Salle privée, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table, Terrasse, Parking privé gratuit, Bières & Vins, Paiements électroniques"
+        }
+      ],
+      "address": "78 boulevard du Général de Gaulle, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13993923-Reviews-Stupefiant-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.stupefiant.eu/",
+      "number": "+33 6 21 75 63 47",
+      "contacts": {
+        "email": ["HELLO@STUPEFIANT.EU", "hello@stupefiant.eu"],
+        "facebookUrl": [
+          "https://www.facebook.com/restaurantstupefiant",
+          "https://www.facebook.com/STUP%C3%89FIANT-558057047902237",
+          "https://www.facebook.com/Stupefiant-558057047902237"
+        ],
+        "website": ["http://www.stupefiant.eu/", "http://www.stupefiant.eu"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/jason-hollain-3b222917a/",
+          "https://www.linkedin.com/in/olympe-le-touze-72544051/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Mathieu CORDONNIER",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Mathieu.CORDONNIER.23604302.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Bo Jardin",
+      "ranking": "Nº 34/104",
+      "details": [
+        {
+          "Infos pratiques": "Imaginez un restaurant niché au coeur d'un des plus beaux parcs de France. Venez goûter aux plaisirs de la table à l'occasion d'un déjeuner, d'un dîner ou"
+        },
+        {
+          "FOURCHETTE DE PRIX": "54€ - 133€",
+          "CUISINES": "Française, Européenne",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table, Chaises hautes disponibles"
+        }
+      ],
+      "address": "Avenue le Notre Parc Barbieux, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1113676-Reviews-Le_Bo_Jardin-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lebeaujardin.fr/",
+      "number": "+33 3 20 20 61 85",
+      "contacts": {
+        "email": ["restaurant@lebeaujardin.fr"],
+        "facebookUrl": ["https://www.facebook.com/lebojardin"],
+        "website": ["http://www.lebeaujardin.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/kevin-rombeaut-b3240ab8/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Jean CAILLOUX",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Jean.CAILLOUX.29260207.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spicy Village",
+      "ranking": "Nº 35/104",
+      "details": [
+        {
+          "Infos pratiques": "Restaurant pakistanais/indien (Halal/sans alcool) à Roubaix Ouvert 7j/7"
+        },
+        {
+          "CUISINES": "Indienne, Pakistanaise",
+          "Repas": "Déjeuner, Dîner, Ouvert tard, Boissons",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Places assises, Service de table, Service de livraison, Salle privée, Parking, Stationnement dans la rue, Wi-Fi gratuit, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "36 Rue Henri Carrette, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13505663-Reviews-Spicy_Village-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/Spicyvillageroubaix/",
+      "number": "+33 3 20 22 86 38",
+      "contacts": {
+        "email": ["spicyvillage.roubaix@gmail.com", "aek77@hotmail.fr"],
+        "facebookUrl": ["https://www.facebook.com/Spicyvillageroubaix"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Som Tam Thai",
+      "ranking": "Nº 36/104",
+      "details": [
+        {
+          "Infos pratiques": "Le somtam thai ouvre ses portes uniquement en livraison via Deliveroo et Uber eats et uniquement à emporter. Aidez nous à organiser vos repas convenablement en nous appelant pour les commandes à emporter donc tous à vos téléphones ou Messenger via facebook ou Instagram. De notre côté nous avons revu, l’accès et l’agencement de la remise de votre commande, qui sera rapide et efficace pour éviter toute attentes nous vous enverrons un message vous informant que la commande est prête à être retirer."
+        },
+        {
+          "CUISINES": "Thaï, Asiatique",
+          "Repas": "Déjeuner, Dîner, Boissons",
+          "FONCTIONNALITÉS": "Plats à emporter, Parking, Stationnement dans la rue, Parking privé gratuit, Style familial, Restaurants non-fumeurs"
+        }
+      ],
+      "address": "121 rue de l Epeule, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d9580239-Reviews-Som_Tam_Thai-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/somtamthairoubaix121/",
+      "number": "+33 3 20 27 56 20",
+      "contacts": {
+        "email": ["somtamthairoubaix@hotmail.fr"],
+        "facebookUrl": ["https://www.facebook.com/somtamthairoubaix121"],
+        "website": ["http://traiteursomtamthai.blogspot.com"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Original Burger Grill",
+      "ranking": "Nº 37/104",
+      "details": [
+        {
+          "CUISINES": "Barbecue/Grillades",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Places assises, Réservations"
+        }
+      ],
+      "address": "2 boulevard de Strasbourg, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15522785-Reviews-Original_Burger_Grill-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.originalburgergrill.com/",
+      "number": "+33 3 26 97 12 26",
+      "contacts": {
+        "email": ["franchise@originalburgergrill.com", "INFO@FASTFOOD.COM"],
+        "facebookUrl": ["https://www.facebook.com/www.facebook.com"],
+        "website": ["http://www.originalburgergrill.com/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/youssef-mouloue-71700b172/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Amar BOUDRISSA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Amar.BOUDRISSA.00709266.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Food - La Cantine",
+      "ranking": "Nº 38/104",
+      "details": [
+        { "CUISINES": "Française", "FONCTIONNALITÉS": "Réservations" }
+      ],
+      "address": "27 rue de l'Espérance Le Vestiaire, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17810612-Reviews-Food_La_Cantine-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/LHOFOOD/",
+      "number": "+33 3 74 67 71 33",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/LHOFOOD"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Mathieu CORDONNIER",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Mathieu.CORDONNIER.23604302.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Petit Roubaix",
+      "ranking": "Nº 39/104",
+      "details": [
+        {
+          "CUISINES": "Française",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table"
+        }
+      ],
+      "address": "3 rue de l Esperance, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d12323547-Reviews-Le_Petit_Roubaix-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.lepetitroubaix59.fr/",
+      "number": "+33 3 20 70 68 63",
+      "contacts": {
+        "email": ["tridontlaurent59@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/lepetitroubaix",
+          "https://www.facebook.com/Lepetitboudoirroubaix"
+        ],
+        "website": [
+          "https://www.lepetitroubaix59.fr/",
+          "http://lepetitroubaix.com"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/elodie-matthys-535098195/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Laurent TRIDON",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Laurent.TRIDON.51693820.html",
+            "linkedInLink": [],
+            "fbExec": ["https://www.facebook.com/100010241529967"]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bellizzi",
+      "ranking": "Nº 40/104",
+      "details": [
+        {
+          "CUISINES": "Pizza, Italienne",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Accès personnes handicapées, Service de table, Places assises"
+        }
+      ],
+      "address": "15 avenue des Nations Unies, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10497226-Reviews-Bellizzi-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://bellizzi-pizza.fr/",
+      "number": null,
+      "contacts": {
+        "email": ["contact@bellizzi-pizza.fr"],
+        "facebookUrl": ["https://www.facebook.com/bellizzipizza"],
+        "website": ["http://bellizzi-pizza.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/mamadou-diallo-0392271b1/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "le charolais",
+      "ranking": "Nº 41/104",
+      "details": [
+        {
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table, Accès personnes handicapées, Sert de l'alcool"
+        }
+      ],
+      "address": "55 avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7740478-Reviews-Le_charolais-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lecharolaisroubaix.fr/",
+      "number": "+33 3 20 45 01 43",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/Le-Charolais-Roubaix-473139449868214",
+          "https://www.facebook.com/roubaixweb",
+          "https://www.facebook.com/OCharolais-1459045097656059",
+          "https://www.facebook.com/Friterie-Pizzeria-Aless-125566311133222",
+          "https://www.facebook.com/Le-Bistro-du-Crois%C3%A9-1416805751898750",
+          "https://www.facebook.com/LeJSL71"
+        ],
+        "website": ["http://www.lecharolaisroubaix.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Le Vieil Abreuvoir",
+      "ranking": "Nº 42/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "19€ - 40€",
+          "CUISINES": "Française, Brasserie gastronomique, Pub",
+          "Repas": "Déjeuner, Dîner, Petit déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Bar complet, Bières & Vins, American Express acceptée, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Chaises hautes disponibles, Service de table"
+        }
+      ],
+      "address": "22 avenue Jean Baptiste Lebas Mercure Lille Roubaix Grand Hotel, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5482729-Reviews-Le_Vieil_Abreuvoir-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.le-vieil-abreuvoir.fr/",
+      "number": "+33 3 28 52 13 98",
+      "contacts": {
+        "email": ["h7951-sb@accor.com", "contact@le-vieil-abreuvoir.fr"],
+        "facebookUrl": ["https://www.facebook.com/101131213300985"],
+        "website": ["http://www.le-vieil-abreuvoir.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Restaurant Charly",
+      "ranking": "Nº 43/104",
+      "details": [
+        {
+          "Infos pratiques": "Situé à la gare de ROUBAIX, votre restaurant \"CHARLY\" vous propose une cuisine accessible, élaborée à partir de produits frais cuisinés au jour le jour. l'établissement étant une ancienne crêperie, nous avions à cœur de perpétuer ce savoir faire et nous vous proposons donc des galettes bretonnes ainsi que de nouveaux plats permettant de satisfaire vos envies..."
+        },
+        {
+          "FOURCHETTE DE PRIX": "10€ - 30€",
+          "CUISINES": "Française",
+          "Repas": "Déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Accès personnes handicapées, Service de table"
+        }
+      ],
+      "address": "5 Place de la Gare, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8734319-Reviews-Restaurant_Charly-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.restaurant-charly.fr/",
+      "number": "+33 3 20 36 53 79",
+      "contacts": {
+        "email": ["charlydub@yahoo.fr", "kentlssone@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Restaurant-Charly-1074296055936021",
+          "https://www.facebook.com/brett.resto",
+          "https://www.facebook.com/1074296055936021",
+          "https://www.facebook.com/lebojardin",
+          "https://www.facebook.com/lepetitroubaix",
+          "https://www.facebook.com/quai45"
+        ],
+        "website": [
+          "http://www.restaurant-charly.fr/",
+          "http://www.restaurant-charly.fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Brasserie de L'usine",
+      "ranking": "Nº 44/104",
+      "details": [
+        {
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table, Réservations, Bar complet"
+        }
+      ],
+      "address": "L'Usine 228 Avenue Alfred Motte, Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d3835075-Reviews-La_Brasserie_de_L_usine-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.usineroubaix.fr/fr/restaurant/la-brasserie-de-l-usine.php",
+      "number": "+33 3 20 80 90 40",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/UsineRoubaix"],
+        "website": [
+          "http://www.usineroubaix.fr/fr/restaurant/la-brasserie-de-l-usine.php"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/oceane-vandekerchove-bb69101a8",
+          "https://fr.linkedin.com/in/oceane-vandekerchove-35594a121"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Ô Galo d'Ouro",
+      "ranking": "Nº 45/104",
+      "details": [
+        {
+          "CUISINES": "Européenne, Portugaise",
+          "FONCTIONNALITÉS": "Réservations"
+        }
+      ],
+      "address": "11 place Nadaud, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15095513-Reviews-O_Galo_d_Ouro-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/ogalodouro/?rf=507435145992835",
+      "number": "+33 3 20 02 52 27",
+      "contacts": {
+        "email": ["restaurantogalodouro@orange.fr", "luis59100@hotmail.fr"],
+        "facebookUrl": ["https://www.facebook.com/ogalodouro"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Luis DA_COSTA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Luis.DA_COSTA.14260207.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Picola",
+      "ranking": "Nº 46/104",
+      "details": [
+        {
+          "Infos pratiques": "C'est un petit restaurant de 20 couverts en salle. En été nous avons une terrasse de 12 couverts. La restaurant se situe à proximité du centre ville avec un service de plats à emporter."
+        },
+        {
+          "FOURCHETTE DE PRIX": "5€ - 10€",
+          "CUISINES": "Italienne, Pizza",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table"
+        }
+      ],
+      "address": "60 Avenue Jean Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13565170-Reviews-La_Picola-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/Pizzeria-La-Picola-344750025966285/",
+      "number": "+33 3 20 24 74 98",
+      "contacts": {
+        "email": ["giomac@sfr.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/Pizzeria-La-Picola-344750025966285"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Giovanni MACALUSO",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Giovanni.MACALUSO.08267222.html",
+            "linkedInLink": [],
+            "fbExec": ["https://www.facebook.com/Giovanni-Macaluso"]
+          }
+        ]
+      }
+    },
+    {
+      "name": "restaurant Palestinian",
+      "ranking": "Nº 47/104",
+      "details": [
+        {
+          "CUISINES": "Moyen-Orient, Marocaine, Méditerranéenne",
+          "FONCTIONNALITÉS": "Réservations, Chèques-cadeaux disponibles"
+        }
+      ],
+      "address": "36 Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17751505-Reviews-Restaurant_Palestinian-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/PalestinianRestaurant/",
+      "number": "+33 9 50 74 96 85",
+      "contacts": {
+        "email": ["contact@palestinian.fr"],
+        "facebookUrl": ["https://www.facebook.com/PalestinianRestaurant"],
+        "website": ["https://palestinian.fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Hamad AWAD",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Hamad.AWAD.46022622.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "L'Expresso",
+      "ranking": "Nº 48/104",
+      "details": [
+        {
+          "CUISINES": "Italienne, Française",
+          "Repas": "Déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Service de table"
+        }
+      ],
+      "address": "143 rue de Beaumont, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7619384-Reviews-L_Expresso-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.lexpresso-roubaix.com/",
+      "number": "+33 3 20 75 43 28",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/roubaixshopping",
+          "https://www.facebook.com/LExpresso-478165252219214",
+          "https://www.facebook.com/bardeladeli",
+          "https://www.facebook.com/Les-Amis-de-Paris-Roubaix-489338137787490",
+          "https://www.facebook.com/168976549819329",
+          "https://www.facebook.com/Latorrefactory",
+          "https://www.facebook.com/lamaisonbleuederoubaix"
+        ],
+        "website": ["http://www.lexpresso-roubaix.com/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/elo%C3%AFse-kiebbe-0225041a3/",
+          "https://www.linkedin.com/in/benjamin-lamy-96293549/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Freyja Nørdic Café",
+      "ranking": "Nº 49/104",
+      "details": [
+        {
+          "Infos pratiques": "Salon de thé / Pâtisserie / Petite restauration scandinave"
+        },
+        {
+          "FOURCHETTE DE PRIX": "2€ - 12€",
+          "CUISINES": "Européenne, Suédoise, Scandinave, Danoise",
+          "Repas": "Déjeuner, Boissons",
+          "FONCTIONNALITÉS": "Plats à emporter, Places assises, Accès personnes handicapées, Accepte les cartes bancaires, Restaurants non-fumeurs"
+        }
+      ],
+      "address": "2 Grand place, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d19649022-Reviews-Freyja_Nordic_Cafe-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.freyja-nordic-cafe.fr/",
+      "number": "+33 3 20 02 31 54",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/FreyjaNordicCafe"],
+        "website": ["http://www.freyja-nordic-cafe.fr/"],
+        "allEmployeesLinkedIn": []
+      }
+    },
+    {
+      "name": "Restaurant Ankama",
+      "ranking": "Nº 50/104",
+      "details": [
+        {
+          "CUISINES": "Française, Fusion",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table"
+        }
+      ],
+      "address": "62 boulevard D Armentieres, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10511904-Reviews-Restaurant_Ankama-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.ankama-resto.com/fr/resto",
+      "number": "+33 3 20 46 65 40",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/Ankama"],
+        "website": ["http://www.ankama-resto.com/fr/resto"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Camille CHAFER",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Camille.CHAFER.79674220.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mercadonegro",
+      "ranking": "Nº 51/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "3€ - 64€",
+          "CUISINES": "Européenne, Portugaise",
+          "Repas": "Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Places assises, Parking privé gratuit, Accès personnes handicapées, Bar complet, Restaurants non-fumeurs"
+        }
+      ],
+      "address": "288 Bd Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17720858-Reviews-Mercadonegro-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/MercadoNegroFrance/",
+      "number": "+33 7 72 08 68 49",
+      "contacts": {
+        "email": ["contact@mercadonegro.fr", "contact@restaurant-fabrica.com"],
+        "facebookUrl": ["https://www.facebook.com/MercadoNegroFrance"],
+        "website": ["http://www.mercadonegro.fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Abdellaziz OULD_LAZAZI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Abdellaziz.OULD_LAZAZI.22667229.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Broadway pizza",
+      "ranking": "Nº 52/104",
+      "details": [
+        {
+          "Infos pratiques": "Restaurant sur trois étages dont une salle privative de karaoké ou réunion de travail et une terrasse extérieur plein sud au calme et sans vis a vis. Pizzeria proposant principalement des pizzas artisanal mais aussi des pâtes sauces maison, grillades, salades, burgers ainsi que des frites carbonnades flamande maison et des plats du jour."
+        },
+        {
+          "FOURCHETTE DE PRIX": "5€ - 11€",
+          "CUISINES": "Italienne, Pizza, Grillades",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Service de livraison, Plats à emporter, Réservations, Terrasse, Places assises, Télévision, Chaises hautes disponibles, American Express acceptée, Mastercard acceptée, Visa acceptée, Paiements électroniques, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "100 Grande Rue 100 Grande Rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d4054738-Reviews-Broadway_Pizza-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.broadwaypizza-roubaix.com/",
+      "number": "+33 3 20 73 72 50",
+      "contacts": {
+        "email": ["abdes12@yahoo.fr", "wixofday@wix.com"],
+        "facebookUrl": ["https://www.facebook.com/LeBroadwayPizza"],
+        "website": ["http://www.broadwaypizza-roubaix.com/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Dahmani",
+      "ranking": "Nº 53/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "4€ - 8€",
+          "CUISINES": "Marocaine, Arabe, Algérien, Méditerranéenne",
+          "Repas": "Dîner, Déjeuner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Service de table, Accès personnes handicapées"
+        }
+      ],
+      "address": "11 rue du Chemin de Fer, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1335551-Reviews-Dahmani-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://restaurant-dahmani.zenchef.com/",
+      "number": "+33 6 75 96 94 64",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/Dahmani-998933583540203"],
+        "website": ["http://restaurant-dahmani.zenchef.com/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/yazid-dahmani-88a30519b/",
+          "https://www.linkedin.com/in/soufiane-dahmani-0aa7377a/",
+          "https://www.linkedin.com/in/aimene-dahmani-7149261a3/",
+          "https://www.linkedin.com/in/sofiandahmani/",
+          "https://www.linkedin.com/in/sarah-dahmani-007a96139/",
+          "https://www.linkedin.com/in/jade-dahmani-7b0422165/",
+          "https://www.linkedin.com/in/younes-dahmani-135610137/",
+          "https://www.linkedin.com/in/sarah-dahmani-77ba36137/",
+          "https://www.linkedin.com/in/samira-dahmani-162611163/",
+          "https://www.linkedin.com/in/siham-dahmani-6306811b1/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Meziane",
+      "ranking": "Nº 54/104",
+      "details": [
+        {
+          "CUISINES": "Moyen-Orient",
+          "Repas": "Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Réservations, Accès personnes handicapées, Places assises"
+        }
+      ],
+      "address": "14 16 Rue Marcel Arnaud, 59150 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8770001-Reviews-Meziane-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 45 83 40",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/148843451856548",
+          "https://www.facebook.com/meziane.traiteur",
+          "https://www.facebook.com/LE-SALON-Meziane-1117403725106946",
+          "https://www.facebook.com/164665803618001",
+          "https://www.facebook.com/1547907822117437"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/meziane-boulahya/",
+          "https://www.linkedin.com/in/meziane-ourida-b5258b131/",
+          "https://www.linkedin.com/in/meziane-radjala-2b9329174/",
+          "https://www.linkedin.com/in/meziane-sofiane-6b3913184/",
+          "https://www.linkedin.com/in/nadia-meziane-30189b32/",
+          "https://www.linkedin.com/in/fouad-meziane-0b664292/",
+          "https://fr.linkedin.com/in/celia-medahi-722119175",
+          "https://fr.linkedin.com/in/saliha-meziane-744b1317a",
+          "https://www.linkedin.com/in/meziane-zoubida-bb74461b5/",
+          "https://www.linkedin.com/in/abel-meziane-850aa61b7/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Zaia MEZIANE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Zaia.MEZIANE.69810920.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Del Sole Pizzeria",
+      "ranking": "Nº 55/104",
+      "details": [{ "CUISINES": "Pizza, Italienne" }],
+      "address": "5 rue de Lille, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10469437-Reviews-Del_Sole_Pizzeria-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/DelSolePizzeria/info/?tab=page_info",
+      "number": null,
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/DelSolePizzeria"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Biagio PALMIERI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Biagio.PALMIERI.64482222.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Monsieur Dwich",
+      "ranking": "Nº 56/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "7€ - 13€",
+          "CUISINES": "Française, Américaine"
+        }
+      ],
+      "address": "205 boulevard de Fourmies, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17768500-Reviews-Monsieur_Dwich-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.monsieurdwich.com/",
+      "number": "+33 3 74 45 87 62",
+      "contacts": {
+        "email": ["contact@monsieurdwich.com"],
+        "facebookUrl": ["https://www.facebook.com/MonsieurDwich"],
+        "website": ["http://www.monsieurdwich.com/"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/samir-el-housni-57b4a41b6"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Zacharie HABBAS",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Zacharie.HABBAS.68160622.html",
+            "fbExec": []
+          },
+          {
+            "execName": "Nisrina LAIB",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Nisrina.LAIB.66050652.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ca T espero",
+      "ranking": "Nº 57/104",
+      "details": [
+        {
+          "CUISINES": "Portugaise, Européenne",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Service de table"
+        }
+      ],
+      "address": "242 rue de l Alma, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1335559-Reviews-Ca_T_espero-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/CaTespero59100/",
+      "number": "+33 3 20 24 63 53",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/CaTespero59100"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Sushi & you",
+      "ranking": "Nº 58/104",
+      "details": [{ "Repas": "Déjeuner, Dîner" }],
+      "address": "43 Bis Rue du Chemin de Fer, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d12715504-Reviews-Sushi_you-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/SushiNYou/",
+      "number": "+33 3 66 96 43 17",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/SushiNYou"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Liyan YE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Liyan.YE.65789902.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "LE PEKIN",
+      "ranking": "Nº 59/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "10€ - 18€",
+          "CUISINES": "Chinoise, Asiatique",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Dîner, Déjeuner",
+          "FONCTIONNALITÉS": "Stationnement dans la rue, Bières & Vins, Mastercard acceptée, Visa acceptée, Paiement en espèces seulement, Accepte les cartes bancaires, Plats à emporter, Réservations, Salle privée, Places assises, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool"
+        }
+      ],
+      "address": "14 Avenue Jean baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5808678-Reviews-Le_Pekin-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.le-pekin.fr/",
+      "number": "+33 3 20 73 41 91",
+      "contacts": {
+        "email": ["info@lepekinroubaix.fr"],
+        "facebookUrl": ["https://www.facebook.com/le.pekin.roubaix"],
+        "website": [
+          "http://www.le-pekin.fr/",
+          "http://www.le-pekin.fr",
+          "https://www.dood.com/shop/lepekin",
+          "http://facebook.le-pekin.fr"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/chen-zikang-0261a9128/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Chez Cyrille",
+      "ranking": "Nº 60/104",
+      "details": [{ "CUISINES": "Italienne, Pizza, Française" }],
+      "address": "136 rue Horace Vernet, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d6959724-Reviews-Chez_Cyrille-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 6 49 99 46 50",
+      "contacts": {
+        "email": ["cyrille.l.grouselle@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/cyrillegrouselle",
+          "https://www.facebook.com/mesutgurkebab",
+          "https://www.facebook.com/francebleutouraineofficiel",
+          "https://www.facebook.com/cyril.coulon.9",
+          "https://www.facebook.com/Cyril-Pianelli"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Cyrille DUPONCHEEL",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Cyrille.DUPONCHEEL.23604302.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bel Etage",
+      "ranking": "Nº 61/104",
+      "details": [{ "Repas": "Petit déjeuner, Déjeuner" }],
+      "address": "7 B avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1324679-Reviews-Bel_Etage-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 39 78 85",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/lebeletage59100",
+          "https://www.facebook.com/menu",
+          "https://www.facebook.com/mairie.roubaix",
+          "https://www.facebook.com/MuseeLaPiscine"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Jacques DELOBELLE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Jacques.DELOBELLE.26222542.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Familial",
+      "ranking": "Nº 62/104",
+      "details": [
+        {
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Places assises, Service de table, Réservations"
+        }
+      ],
+      "address": "158 Boulevard Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10719197-Reviews-Le_Familial-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://le-familial.com/",
+      "number": "+33 9 70 99 59 05",
+      "contacts": {
+        "email": ["lefamilialrestaurant@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/lefamilial"],
+        "website": ["http://le-familial.com/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Abdellaziz OULD_LAZAZI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Abdellaziz.OULD_LAZAZI.22667229.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Mange Disque",
+      "ranking": "Nº 63/104",
+      "details": [{ "CUISINES": "Française, Européenne" }],
+      "address": "20 rue des Fabricants, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d20127968-Reviews-Le_Mange_Disque-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://lemangedisque.fr/",
+      "number": "+33 3 20 23 30 55",
+      "contacts": {
+        "email": ["contact@lemangedisque.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/LEMANGEDISQUERBX",
+          "https://www.facebook.com/lavoixdunord.roubaix"
+        ],
+        "website": ["http://lemangedisque.fr/", "http://www.lemangedisque.fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "David CARRANDIE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/David.CARRANDIE.07772060.html",
+            "fbExec": []
+          },
+          {
+            "execName": "Nicolas LEFEVRE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Nicolas.LEFEVRE.26362702.html",
+            "linkedInLink": [],
+            "fbExec": []
+          },
+          {
+            "execName": "David PALASZEWSKI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/David.PALASZEWSKI.06280750.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Quai 45",
+      "ranking": "Nº 64/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "10€ - 13€",
+          "CUISINES": "Bar à bières, Bar, Café, Pub, Bar à vins, Bars-restaurants",
+          "Repas": "Petit déjeuner, Déjeuner, Dîner, Brunch, Boissons"
+        }
+      ],
+      "address": "45 Bd de la Republique, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d19261263-Reviews-Quai_45-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://baravin.quai45.fr/",
+      "number": "+33 3 59 30 16 25",
+      "contacts": {
+        "email": ["baravin@quai45.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/SelectCaff%C3%A8-581849458683304"
+        ],
+        "website": ["http://baravin.quai45.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Benoit MOUGEL",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Benoit.MOUGEL.65562202.html",
+            "linkedInLink": [
+              "https://www.linkedin.com/pub/benoit-mougel/19/334/983"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Izmir Express",
+      "ranking": "Nº 65/104",
+      "details": [{ "Repas": "Déjeuner, Dîner" }],
+      "address": "87 rue du grand chemin, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17660133-Reviews-Izmir_Express-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 24 98 66",
+      "contacts": {
+        "email": ["izmir59express@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/izmirexpress",
+          "https://www.facebook.com/IZMIR-Express-pitta-kebab-103504401239320",
+          "https://www.facebook.com/zicotiramisu",
+          "https://www.facebook.com/397981593560193",
+          "https://www.facebook.com/205503056146172",
+          "https://www.facebook.com/supermarketkevser2"
+        ],
+        "website": [null, "https://izmirexpress.fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Lakhdar BENZIANI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Lakhdar.BENZIANI.16607029.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chez Mam's",
+      "ranking": "Nº 66/104",
+      "details": [
+        {
+          "Infos pratiques": "Bienvenue Chez Mam’s, un restaurant chaleureux où se mêle expérience et inspiration, où l’on revisite un plat chaque jour pour réveiller vos papilles, où le délice des yeux se marie au plaisir du gout. Sa variété de Burgers, tartines, plats et desserts tous faits maison raviront les amateurs de bonne bouffe."
+        },
+        { "FOURCHETTE DE PRIX": "10€ - 30€" }
+      ],
+      "address": "8 Place de la Gare, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d9982861-Reviews-Chez_Mam_s-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://chez-mams.fr/",
+      "number": "+33 6 49 72 88 59",
+      "contacts": {
+        "email": ["chezmams.contact@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Chezmamsresto",
+          "https://www.facebook.com/timeline",
+          "https://www.facebook.com/MAM-Le-berceau-enchant%C3%A9-114903182402470"
+        ],
+        "website": ["http://chez-mams.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/myriem-bensalem-162b99185",
+          "https://fr.linkedin.com/in/roberta-hannart-7a7a27178",
+          "https://fr.linkedin.com/in/chlo%C3%A9-defrance-569463186",
+          "https://fr.linkedin.com/in/maxime-gayraud-9b6720160",
+          "https://fr.linkedin.com/in/manon-assercq-322a55117"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Amel BENSALEM",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Amel.BENSALEM.07266206.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nanan",
+      "ranking": "Nº 1/2",
+      "details": [{ "CUISINES": "Française, Café" }],
+      "address": "258 avenue Gustave Delory, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15218282-Reviews-Nanan-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/MaisonNanan/",
+      "number": "+33 3 20 83 80 42",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/MaisonNanan"],
+        "website": [],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/vbcqlt/",
+          "https://www.linkedin.com/in/am%C3%A9lie-bonnafoux-036702168/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Florent BONNAFOUX",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Florent.BONNAFOUX.26222439.html",
+            "linkedInLink": [],
+            "fbExec": []
+          },
+          {
+            "execName": "Amelie BONNAFOUX",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Amelie.BONNAFOUX.40306672.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/amelie-bonnafoux-80561a142"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pizza Pizz'Oh",
+      "ranking": "Nº 67/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "16 Place de la Gare, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5895374-Reviews-Pizza_Pizz_Oh-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/pizzapizzoh/",
+      "number": "+33 9 54 06 04 83",
+      "contacts": {
+        "email": ["zohbena@yahoo.fr"],
+        "facebookUrl": ["https://www.facebook.com/pizzapizzoh"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Zoheir BENAZIEZ",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Zoheir.BENAZIEZ.67799202.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Fournil de Mon Enfance",
+      "ranking": "Nº 68/104",
+      "details": [
+        {
+          "CUISINES": "Française, Restauration rapide",
+          "FONCTIONNALITÉS": "Réservations"
+        }
+      ],
+      "address": "228 Avenue Alfred Motte, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13202370-Reviews-Le_Fournil_de_Mon_Enfance-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/monvillagedelamarque/",
+      "number": "+33 3 20 75 30 92",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/monvillagedelamarque"],
+        "website": [],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/aline-almeida-7b8802189/",
+          "https://www.linkedin.com/in/claire-moutiez-378746135/",
+          "https://www.linkedin.com/in/kenza-bellamio-371753174/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Olivier CARPENTIER",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Olivier.CARPENTIER.44605222.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/olivier-carpentier-aa783713b"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Petit Konbini",
+      "ranking": "Nº 69/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "47bis rue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d19410922-Reviews-Petit_Konbini-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 62 65 39 45",
+      "contacts": {
+        "email": ["doye.quentin@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/petitkonbini",
+          "https://www.facebook.com/nrjlille",
+          "https://www.facebook.com/mairie.roubaix",
+          "https://www.facebook.com/nordeclair.info",
+          "https://www.facebook.com/the.ring.io"
+        ],
+        "website": [null, "http://www.petitkonbini.fr"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/quentin-doye/",
+          "https://www.linkedin.com/in/thibaut-pellieux-23513b112/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Quentin DOYE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Quentin.DOYE.46012842.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/quentin-doye",
+              "https://www.linkedin.com/chatin/wnc/in/quentin-doye?trk=people_also_view_9",
+              "https://fr.linkedin.com/in/quentindoye"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mc Murphy",
+      "ranking": "Nº 70/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "47 rue Pierre Motte, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1325664-Reviews-Mc_Murphy-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 45 08 15",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/McMurphyrestaurants",
+          "https://www.facebook.com/OLannoy-Mc-Murphy-411717928881631"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Djillali MERDJI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Djillali.MERDJI.50660223.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "SIMEÏS Délice saveurs orientales",
+      "ranking": "Nº 71/104",
+      "details": [
+        {
+          "Infos pratiques": "SIMEÏS Délice c'est des produits frais, \"fait maison\" et cuisson minute. Venez dégustez des Mahjouba (crêpe de semoule farcie), Samoussa, soupes orientales, couscous (à la commande), salades, ratatouille de légumes....A savourer sur place ou à emporter."
+        },
+        {
+          "CUISINES": "Restauration rapide, Algérien",
+          "Repas": "Déjeuner, Dîner, Boissons"
+        }
+      ],
+      "address": "38 rue des Fabricants, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d19003628-Reviews-SIMEIS_Delice_saveurs_orientales-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/SimeisDelices/",
+      "number": "+33 3 61 50 65 31",
+      "contacts": {
+        "email": ["simeisdelice@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/SimeisDelices"],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Samia ZAIRI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Samia.ZAIRI.00217612.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "La Belle Fontaine",
+      "ranking": "Nº 72/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "38 rue de l Epeule, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8660853-Reviews-La_Belle_Fontaine-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 70 18 79",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/La-Belle-Fontaine-453552717992876",
+          "https://www.facebook.com/MuseeLaPiscine",
+          "https://www.facebook.com/RoubaixTourisme",
+          "https://www.facebook.com/caissesociale"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Joaquim ASCENSAO_DOS_SANTOS",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Joaquim.ASCENSAO_DOS_SANTOS.68291820.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "B&O Sandwich",
+      "ranking": "Nº 73/104",
+      "details": [{ "CUISINES": "Française" }],
+      "address": "2 Place de la Gare, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17733656-Reviews-B_O_Sandwich-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/BOSandwichRoubaix/",
+      "number": null,
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/BOSandwichRoubaix"],
+        "website": [],
+        "allEmployeesLinkedIn": []
+      }
+    },
+    {
+      "name": "Pizza Fina",
+      "ranking": "Nº 74/104",
+      "details": [{ "CUISINES": "Italienne" }],
+      "address": "83 Grande Rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13220206-Reviews-Pizza_Fina-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/Pizza-fina-Roubaix-1488810844723097/",
+      "number": "+33 3 20 73 90 94",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/Pizza-fina-Roubaix-1488810844723097"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Lered Burger",
+      "ranking": "Nº 75/104",
+      "details": [
+        {
+          "Infos pratiques": "Les meilleurs des burgers c'est chez nous,doté de la meilleur des viandes avec des produits exclusivement frais .Nos hamburger vous feront vibrer!!!"
+        },
+        { "CUISINES": "Française, Café, Restauration rapide" }
+      ],
+      "address": "2 T rue de la Vigne, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15866716-Reviews-Lered_Burger-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://lered-burger.business.site/",
+      "number": "+33 3 62 57 41 19",
+      "contacts": {
+        "email": ["contact@leredburger.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/leredbuger",
+          "https://www.facebook.com/LeRed-Burger-1578353005553010"
+        ],
+        "website": [
+          "http://lered-burger.business.site/",
+          "https://leredburger.fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Union Sportive Portuguese Rx TG",
+      "ranking": "Nº 76/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "80 boulevard de Metz, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d16172932-Reviews-Union_Sportive_Portuguese_Rx_TG-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 9 77 92 55 08",
+      "contacts": {
+        "email": ["usprt59@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/unionsportiveportugaiseroubaixtourcoing",
+          "https://www.facebook.com/102876991098983",
+          "https://www.facebook.com/CaTespero59100",
+          "https://www.facebook.com/sededamiuzela",
+          "https://www.facebook.com/Sportugal-223428514349307"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Burger Sweet",
+      "ranking": "Nº 77/104",
+      "details": [
+        {
+          "Infos pratiques": "Bienvenue dans votre restaurant BURGER SWEET GRILL. Nous vous proposons de délicieux hamburgers cuits à la flamme sur le grill, pour un goût unique, un goût délicieux de fumé."
+        },
+        {
+          "CUISINES": "Américaine",
+          "Repas": "Déjeuner, Dîner, Ouvert tard, Boissons"
+        }
+      ],
+      "address": "164 rue de Lannoy, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15813708-Reviews-Burger_Sweet_Grill-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/Burgersweetgrill/",
+      "number": "+33 3 74 44 42 69",
+      "contacts": {
+        "email": ["burgersweet59@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/Burgersweetgrill"],
+        "website": [
+          "https://www.just-eat.fr/restaurant-livraison-a-domicile/restaurant/burger-sweet-roubaix59100"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/souhaib-benaissa-913771a3/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Ahmed ZAFZAFI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Ahmed.ZAFZAFI.64828046.html",
+            "linkedInLink": [],
+            "fbExec": []
+          },
+          {
+            "execName": "Amar BENGUENNA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Amar.BENGUENNA.52722264.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Akio",
+      "ranking": "Nº 78/104",
+      "details": [
+        {
+          "Infos pratiques": "Situé dans le \" triangle d'or \"de la rue de l'Alma, le restaurant Akio semble avoir trouvé la bonne recette. On s'y sent bien et on y mange des sushis fait avec des produits de qualité et toujours frais."
+        },
+        {
+          "CUISINES": "Japonaise",
+          "Régimes spéciaux": "Végétariens bienvenus",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Plats à emporter, Service de livraison, Réservations"
+        }
+      ],
+      "address": "102 rue de l Alma, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d4496601-Reviews-Akio-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.restaurant-akio.fr/",
+      "number": "+33 3 20 27 45 04",
+      "contacts": {
+        "email": ["yohanfrance@yahoo.fr"],
+        "facebookUrl": ["https://www.facebook.com/restaurantakio59"],
+        "website": ["http://www.restaurant-akio.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/david-gay-b59381184",
+          "https://fr.linkedin.com/in/erwan-gaonach-3b177a128",
+          "https://fr.linkedin.com/in/nolwenn-chavanon-aa41b8183",
+          "https://fr.linkedin.com/in/salah-elyess-494333160",
+          "https://fr.linkedin.com/in/lucie-bleurvacq-4358a3195",
+          "https://fr.linkedin.com/in/timoth%C3%A9-gourmelon-015947194",
+          "https://www.linkedin.com/in/jean-marc-laurent-38a23480/",
+          "https://www.linkedin.com/in/gsitprofil/",
+          "https://www.linkedin.com/in/charlotte-tazi-1a536613b/",
+          "https://www.linkedin.com/in/jean-marc-laurent-827768/",
+          "https://www.linkedin.com/in/emilieponcheele/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Chunhua VU",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Chunhua.VU.92760628.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "La CuenTa",
+      "ranking": "Nº 79/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "31 Boulevard du Général de Gaulle, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d16808458-Reviews-La_CuenTa-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/SanDeuZa/",
+      "number": "+33 9 83 07 43 42",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/SanDeuZa"],
+        "website": [],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/mourad-sanaa-416b0816b/",
+          "https://www.linkedin.com/in/carmenmenendezblanco/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Mourad SANAA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Mourad.SANAA.22677030.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/mourad-sanaa-416b0816b"
+            ],
+            "fbExec": [
+              "https://www.facebook.com/100016795963278",
+              "https://www.facebook.com/Mourad-Sanaa"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Le Gains",
+      "ranking": "Nº 80/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "1 rue Edouard Vaillant, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d9834380-Reviews-Le_Gains-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": null,
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/Le.Gainsbar",
+          "https://www.facebook.com/roubaixweb",
+          "https://www.facebook.com/artpointm",
+          "https://www.facebook.com/nordeclair.info",
+          "https://www.facebook.com/gainsbar.72",
+          "https://www.facebook.com/braderiedelart"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Rotana Burger",
+      "ranking": "Nº 81/104",
+      "details": [
+        {
+          "Infos pratiques": "Situé au centre ville de Roubaix, le Rotana Burger est un restaurant au concept simple : nous proposons des burgers de différentes variétés et saveurs. Nos burgers sont composés quotidiennement de sauce maison, de steaks frais de 150g, de frites fraîches et d'un pain maison. Pour les réticents de burger, des salades pourront régaler vos papilles."
+        },
+        { "FOURCHETTE DE PRIX": "10€ - 30€" }
+      ],
+      "address": "18 rue du General Sarrail, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10059738-Reviews-Rotana_Burger-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.rotanaburger.fr/",
+      "number": "+33 9 81 36 90 11",
+      "contacts": {
+        "email": ["driss.moussaide@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Rotana-Burger-514733148704430",
+          "https://www.facebook.com/Rotana-Burger-763291277181948",
+          "https://www.facebook.com/174629962595588"
+        ],
+        "website": ["http://www.rotanaburger.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Driss MOUSSAIDE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Driss.MOUSSAIDE.07572268.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fast Burger",
+      "ranking": "Nº 82/104",
+      "details": [
+        {
+          "Infos pratiques": "Spécialiste du hamburger halal, de nombreux menus, burgers, wrap, wings, nuggets, tenders, hot dogs, sans oublier nos fameux tiramisu."
+        },
+        { "Régimes spéciaux": "Halal" }
+      ],
+      "address": "36 rue Henri Carrette, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7609738-Reviews-Fast_Burger-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 9 54 19 99 99",
+      "contacts": {
+        "email": ["contact@fastburger.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/fast.burger.98",
+          "https://www.facebook.com/flashburger.roubaix",
+          "https://www.facebook.com/187-burger-845070149015628"
+        ],
+        "website": [null, "http://www.fastburger.fr"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Hamza HABBAS",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Hamza.HABBAS.06628836.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Naan Rapide",
+      "ranking": "Nº 83/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "141 Rue De L'epeule, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15668207-Reviews-Naan_Rapide-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/NAAN-roubaix-1185534038215621/",
+      "number": "+33 9 86 76 70 84",
+      "contacts": {
+        "email": ["naanrapide@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/NAAN-roubaix-1185534038215621"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Le Mehdi",
+      "ranking": "Nº 84/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "12€ - 20€",
+          "CUISINES": "Française, Marocaine, Méditerranéenne, Internationale"
+        }
+      ],
+      "address": "132 Rue de lannoy, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d13945309-Reviews-Le_Mehdi-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://le-mehdi.business.site/",
+      "number": "+33 6 95 39 89 43",
+      "contacts": {
+        "email": ["mehdi.mahmoudi10@hotmail.fr"],
+        "facebookUrl": ["https://www.facebook.com/Le-Mehdi-516734448709806"],
+        "website": [
+          "http://le-mehdi.business.site/",
+          "https://le-mehdi.business.site"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Saadia EL_KORCHI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Saadia.EL_KORCHI.52006422.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Camer Vip",
+      "ranking": "Nº 85/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "271 Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17463318-Reviews-Camer_Vip-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/pages/category/African-Restaurant/Restaurant-CAMER-VIP-887640784674626/",
+      "number": "+33 3 62 64 75 58",
+      "contacts": {
+        "email": ["camervip2013@yahoo.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/Restaurant-CAMER-VIP-887640784674626"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Alieh ASAA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Alieh.ASAA.79220622.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chez Mao",
+      "ranking": "Nº 86/104",
+      "details": [
+        {
+          "Infos pratiques": "A Roubaix, venez découvrir le nouveau snack chez Mao, une adresse conviviale où vous vous sentirez bien. Mao vous propose ses spécialités, les plats traditionnels sénégalais comme le Poulet Yassa ou le Mafé. Venez aussi goûter les Fataya, délicieux petits chaussons farcis à la viande hachée et la Carbonnade maison. 50 places assises. Une grande salle à l'étage. Sur place ou à emporter."
+        },
+        { "CUISINES": "Française, Africaine", "Repas": "Déjeuner, Dîner" }
+      ],
+      "address": "204 avenue des Nations Unies, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5521567-Reviews-Chez_Mao-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://chezmaosnack.free.fr/",
+      "number": "+33 3 20 02 42 34",
+      "contacts": {
+        "email": ["malik.gueye@laposte.net"],
+        "facebookUrl": ["https://www.facebook.com/chezmaosnack"],
+        "website": ["http://chezmaosnack.free.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Malick GUEYE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Malick.GUEYE.52607480.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ibis Kitchen",
+      "ranking": "Nº 87/104",
+      "details": [{ "CUISINES": "Européenne" }],
+      "address": "37 Boulevard du Général Leclerc ibis Lille Roubaix Centre, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d12599510-Reviews-Ibis_Kitchen-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://restaurants.accorhotels.com/fr/restaurant-1017_R001-ibis-kitchen-roubaix.shtml",
+      "number": null,
+      "contacts": {
+        "email": ["H1017@accor.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/ibisTourcoingCentre",
+          "https://www.facebook.com/AssociationGAEL",
+          "https://www.facebook.com/164243073639257",
+          "https://www.facebook.com/ibis-Lille-Centre-Gares-290934087615951"
+        ],
+        "website": [
+          "http://restaurants.accorhotels.com/fr/restaurant-1017_R001-ibis-kitchen-roubaix.shtml"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Au coin gourmand",
+      "ranking": "Nº 88/104",
+      "details": [{ "CUISINES": "Steakhouse" }],
+      "address": "18 B rue des Arts, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7369192-Reviews-Au_coin_gourmand-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 7 78 14 36 18",
+      "contacts": {
+        "email": ["Mary549@hotmail.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/au.coincuisine",
+          "https://www.facebook.com/Au-Coin-Gourmand",
+          "https://www.facebook.com/Le-Coin-gourmand-1152863078183428",
+          "https://www.facebook.com/mycerealsroubaix",
+          "https://www.facebook.com/20000saveurs",
+          "https://www.facebook.com/gateauxmieline",
+          "https://www.facebook.com/leffetgourmet",
+          "https://www.facebook.com/LaFabrikBurger"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Leslie DELEVILLE",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Leslie.DELEVILLE.42306272.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cafe Chez Salah",
+      "ranking": "Nº 89/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "133 rue de Tourcoing, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d9607986-Reviews-Cafe_Chez_Salah-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 26 25 33",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/roubaixweb",
+          "https://www.facebook.com/MuseeLaPiscine",
+          "https://www.facebook.com/BSgraffs",
+          "https://www.facebook.com/Fondation.Abbe.Pierre",
+          "https://www.facebook.com/Centre.Culturel.du.Monde.Arabe"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Keb Way",
+      "ranking": "Nº 90/104",
+      "details": [{ "CUISINES": "Française, Turque" }],
+      "address": "26 Grand place, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8781740-Reviews-Keb_Way-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.kebway.fr/",
+      "number": "+33 3 20 60 15 69",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/kebway"],
+        "website": ["http://www.kebway.fr/"],
+        "allEmployeesLinkedIn": []
+      }
+    },
+    {
+      "name": "Mr Arthur",
+      "ranking": "Nº 91/104",
+      "details": [
+        {
+          "Infos pratiques": "Situé en plein coeur du centre McArthurGlen, la carte 100% faite maison peut être dégustée à l'intérieur ou en terrasse. Que vous soyez amateur de café, que vous preniez un déjeuner de travail, une pause shopping ou que vous vouliez boire un verre entre amis, Mr Arthur est l'endroit idéal pour passer un super moment."
+        },
+        { "FOURCHETTE DE PRIX": "12€ - 19€", "CUISINES": "Française" }
+      ],
+      "address": "45 Mail de Lannoy, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d19103550-Reviews-Mr_Arthur-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://mr-arthur-restaurant.fr/",
+      "number": "+33 6 12 87 13 74",
+      "contacts": {
+        "email": ["contact@mr-arthur-restaurant.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/mrarthur59",
+          "https://www.facebook.com/mcarthurglenroubaix",
+          "https://www.facebook.com/roubaixshopping",
+          "https://www.facebook.com/roubaixweb"
+        ],
+        "website": ["http://mr-arthur-restaurant.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/rafik-ouassaidi-0648501b1"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Friterie Pizzeria Aless",
+      "ranking": "Nº 92/104",
+      "details": [
+        {
+          "Infos pratiques": "Au menu beaucoup de choix!!! Venez goûter les spécialités de notre friterie !! \"Friterie Pizzeria Aless !!! comme le cheese, le géant faluche , le king , l'hamburger maroille ( le chti) , et bien d'autres produits , les incontournables fricadelle, saucisse, merguez, brochette provençale"
+        },
+        {
+          "FOURCHETTE DE PRIX": "10€ - 30€",
+          "CUISINES": "Belge, Pizza, Européenne"
+        }
+      ],
+      "address": "538 rue de Lannoy, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8737103-Reviews-Friterie_Pizzeria_Aless-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.friteriepizzeria-aless.fr/",
+      "number": "+33 3 62 57 84 75",
+      "contacts": {
+        "email": ["curciogino@hotmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Friterie-Pizzeria-Aless-125566311133222",
+          "https://www.facebook.com/Friterie-Pizzeria-Aless-415956085427575",
+          "https://www.facebook.com/652669648097798",
+          "https://www.facebook.com/125566311133222",
+          "https://www.facebook.com/Friterie-Pizzeria-Aless-415956132094237"
+        ],
+        "website": ["http://www.friteriepizzeria-aless.fr/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Poulet Doré Halal",
+      "ranking": "Nº 93/104",
+      "details": [
+        {
+          "Infos pratiques": "The price will bring you, but the quality will hold you back! Halal Roast Chicken for delivery or takeout. On the menu or on its own. Halal restaurant · Chicken restaurant · Food delivery service"
+        },
+        {
+          "CUISINES": "Restauration rapide, Grillades",
+          "Repas": "Déjeuner, Dîner",
+          "FONCTIONNALITÉS": "Service de livraison, Plats à emporter, Terrasse, Stationnement dans la rue, Stationnement pour clientèle, Service de table"
+        }
+      ],
+      "address": "172 Rue De L'épeule, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d21133645-Reviews-Poulet_Dore_Halal-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/pouletdorehalal",
+      "number": "+33 6 37 47 29 24",
+      "contacts": {
+        "email": ["pouletdoreroubaix@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/pouletdorehalal"],
+        "website": ["https://www.instagram.com/pouletdorehalal"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Nordine HADDADI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Nordine.HADDADI.06052422.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jaldi Jaldi",
+      "ranking": "Nº 94/104",
+      "details": [{ "CUISINES": "Asiatique" }],
+      "address": "212 boulevard de Fourmies, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15048856-Reviews-Jaldi_Jaldi-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://jaldijaldiroubaix.fr/",
+      "number": "+33 3 20 72 03 00",
+      "contacts": {
+        "email": ["contact@jaldijaldi-roubaix.fr", "shakir23@gmail.com"],
+        "facebookUrl": ["https://www.facebook.com/jaldijaldiroubaix"],
+        "website": [
+          "https://jaldijaldiroubaix.fr/",
+          "https://www.fodman.com/fr/restaurant/indian-jaldi-food-212-boulevard-de-fourmies-roubaix"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/mc-motors-264307167/",
+          "https://www.linkedin.com/in/daouda-sow-33a149166/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Daouda SOW",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Daouda.SOW.06223426.html",
+            "linkedInLink": [
+              "https://fr.linkedin.com/in/daouda-sow-33a149166",
+              "https://fr.linkedin.com/in/daouda-sow-33a149166/%7Bcountry%3Dth%2C+language%3Dth%7D?trk=people-guest_profile-result-card_result-card_full-click"
+            ],
+            "fbExec": [
+              "https://www.facebook.com/ActionBoxe",
+              "https://www.facebook.com/associationanas",
+              "https://www.facebook.com/Sow-Daouda-201072123286097"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sushi Jiraiya",
+      "ranking": "Nº 95/104",
+      "details": [
+        {
+          "CUISINES": "Japonaise, Asiatique, Chinoise, Sushi",
+          "FONCTIONNALITÉS": "Plats à emporter, Places assises, Accès personnes handicapées, Réservations"
+        }
+      ],
+      "address": "44 Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d11694198-Reviews-Sushi_Jiraiya-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.facebook.com/SUSHI-Jiraiya-Roubaix-374834599571531/",
+      "number": "+33 3 20 54 67 17",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/SUSHI-Jiraiya-Roubaix-374834599571531"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Antoine WILLAUME",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Antoine.WILLAUME.87607026.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Subway",
+      "ranking": "Nº 96/104",
+      "details": [
+        {
+          "Infos pratiques": "Votre restaurant Subway®, situé 28 Place de La Liberte, vous propose de personnaliser vos sandwiches, salades et wraps. Des millions de combinaisons possibles avec un large choix d'ingrédients : du pain et des cookies cuits sur place chaque jour, des légumes fraîchement coupés tous les matins, des garnitures variées qui s'adaptent à tous les goûts... pour créer un repas au plus près de vos envies du moment. A vous de créer le vôtre ! Chez Subway®, C'est vous le Chef ! Les restaurants Subway® sont exploités par des franchisés indépendants qui emploient de talentueux Sandwich Artists™ qui réalisent vos commandes en restaurant pour une dégustation sur place, à emporter ou en livraison."
+        },
+        {
+          "CUISINES": "Restauration rapide",
+          "Repas": "Petit déjeuner, Déjeuner, Dîner"
+        }
+      ],
+      "address": "28 Place de La Liberte, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d10892728-Reviews-Subway-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://restaurants.subway.com/france/roubaix/28-place-de-la-liberte?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=35510&utm_campaign=evergreen-2020&y_source=1_MTQ5MjgxMDgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "number": "+33 3 20 74 03 68",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/SUBWAY-FRANCE-829349807443595",
+          "https://www.facebook.com/SUBWAY-FRANCE-112811937097973",
+          "https://www.facebook.com/SUBWAY-FRANCE-111269787306748",
+          "https://www.facebook.com/SUBWAY-FRANCE-1802863326689480",
+          "https://www.facebook.com/829349807443595",
+          "https://www.facebook.com/1632206113736437",
+          "https://www.facebook.com/SubwayEnFrance"
+        ],
+        "website": [
+          "https://restaurants.subway.com/france/roubaix/28-place-de-la-liberte?utm_source=yext-other&utm_medium=local&utm_term=acq&utm_content=35510&utm_campaign=evergreen-2020&y_source=1_MTQ5MjgxMDgtNzY5LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "http://www.subway.com/fr-fr"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/pierre-antoine-traisnel-052172101/",
+          "https://www.linkedin.com/in/m-boo-camara-600a5a111/",
+          "https://www.linkedin.com/in/enzo-lombardi-258338179/",
+          "https://www.linkedin.com/in/landry-marc-61291589/",
+          "https://fr.linkedin.com/in/ilias-mouhsine-bb3959192",
+          "https://fr.linkedin.com/in/thomas-delrue-3a7201157",
+          "https://fr.linkedin.com/in/kevin-guilliot-40b06316a",
+          "https://fr.linkedin.com/in/luc-mahadoo-10216b1ab",
+          "https://fr.linkedin.com/in/alex-fu-ck-23871b16a",
+          "https://www.linkedin.com/in/zo%C3%A9-ourdouillie-0b5ab2127/",
+          "https://www.linkedin.com/in/simon-maillard-207ab2156/",
+          "https://www.linkedin.com/in/anna-resse-7484b3123/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Eat and You",
+      "ranking": "Nº 97/104",
+      "details": [{ "CUISINES": "Française" }],
+      "address": "7 boulevard du Général Leclerc, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17146666-Reviews-Eat_and_You-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.eatandyou.com/",
+      "number": "+33 3 62 92 06 87",
+      "contacts": {
+        "email": ["contact@eatandyou.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/eatandyou",
+          "https://www.facebook.com/Eat-and-you-129652447084948",
+          "https://www.facebook.com/Le-Lustelle-623355581023231",
+          "https://www.facebook.com/LES-saveurs-DU-SUD-1987077594745276"
+        ],
+        "website": ["http://www.eatandyou.com/", "http://www.eatandyou.com"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/m%C3%A9lanie-carlier-450470185/",
+          "https://www.linkedin.com/in/jeremy-maroille-a3310b159/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Afro-Diziak",
+      "ranking": "Nº 98/104",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "54 rue Jean Moulin, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1335523-Reviews-Afro_Diziak-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 66 03 15",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/dj.EDSIK",
+          "https://www.facebook.com/C-62927959-62930340",
+          "https://www.facebook.com/S-48483636-48486062",
+          "https://www.facebook.com/S-49637947-49640492"
+        ],
+        "website": [null, "http://alouettestreet.fr/artist/edsik"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Grande Kabylie",
+      "ranking": "Nº 99/104",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "14€ - 18€",
+          "CUISINES": "Barbecue/Grillades, Arabe, Algérien",
+          "Repas": "Dîner, Boissons",
+          "FONCTIONNALITÉS": "Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "270 Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5887283-Reviews-La_Grande_Kabylie-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 66 07 11",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/Humanitart-et-Diversit%C3%A9-107224627454139",
+          "https://www.facebook.com/memoires.plurielles",
+          "https://www.facebook.com/concertsetevenementsKabyle",
+          "https://www.facebook.com/La-foire-%C3%A0-la-viande-Roubaix-100469881647272",
+          "https://www.facebook.com/100469881647272",
+          "https://www.facebook.com/Siwel.news",
+          "https://www.facebook.com/184748944956297",
+          "https://www.facebook.com/Association-Convergences-534809753222841"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Speed Kebab",
+      "ranking": "Nº 100/104",
+      "details": [
+        {
+          "CUISINES": "Moyen-Orient, Restauration rapide",
+          "FONCTIONNALITÉS": "Plats à emporter, Service de livraison"
+        }
+      ],
+      "address": "2 rue de Lille, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d7305398-Reviews-Speed_Kebab-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.speed-kebab.fr/",
+      "number": "+33 3 20 02 42 39",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/195279730511437"],
+        "website": ["http://www.speed-kebab.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/justine-moreau-924519bb/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Broche Doree",
+      "ranking": "Nº 101/104",
+      "details": [
+        {
+          "CUISINES": "Italienne, Française, Barbecue/Grillades, Européenne, Diner"
+        }
+      ],
+      "address": "81 Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d21191805-Reviews-La_Broche_Doree-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": null,
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/La-broche-Dor%C3%A9e-102553937821216",
+          "https://www.facebook.com/La-Broche-DOR%C3%89E-220371531772067"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Dioza",
+      "ranking": "Nº 102/104",
+      "details": [
+        {
+          "Infos pratiques": "Votre pizzeria La Dioza vous accueille 7j/7 de 11h a 23h. Venez dégustez nos pizza a la pâte fraîche et moelleuse, nos pastas aux sauces variées préparées sur place, nos salades maisons et nos croques. Sans oubliez nos délicieux dessert ! Le tout HALLAL et à bon prix, sur place, à emporter ou à vous faire livrer chez vous !"
+        },
+        { "FOURCHETTE DE PRIX": "10€ - 30€", "CUISINES": "Italienne, Pizza" }
+      ],
+      "address": "3 rue Pierre Motte, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8746766-Reviews-La_Dioza-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.la-dioza.com/",
+      "number": "+33 3 62 23 01 80",
+      "contacts": {
+        "email": ["khaledpecoss@hotmail.fr", "contact@pizzeria-la-dioza.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/pizzeria.la.dioza",
+          "https://www.facebook.com/La-Dioza-1644363972487012",
+          "https://www.facebook.com/La-Dioza-1460691274161630"
+        ],
+        "website": [
+          "http://www.la-dioza.com/",
+          "https://www.pizzeria-la-dioza.fr"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Dris DEBARA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Dris.DEBARA.96288602.html",
+            "linkedInLink": [],
+            "fbExec": []
+          },
+          {
+            "execName": "Khaled DEBARA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Khaled.DEBARA.26262000.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Campanile Restaurant",
+      "ranking": "Nº 103/104",
+      "details": [{ "Repas": "Dîner" }],
+      "address": "36, Rue de La Communaurté Urbaine, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d6697544-Reviews-Campanile_Restaurant-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.campanile.com/",
+      "number": "+33 3 20 70 19 20",
+      "contacts": {
+        "email": ["dpo@groupedulouvre.com.", "react-input-range@1.3.0"],
+        "facebookUrl": ["https://www.facebook.com/campanile"],
+        "website": ["http://www.campanile.com/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/nicolas-nazzari-a5252611b/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Boulangerie Paul",
+      "ranking": "Nº 2/2",
+      "details": [
+        {
+          "CUISINES": "Française",
+          "Repas": "Petit déjeuner",
+          "FONCTIONNALITÉS": "Places assises, Accès personnes handicapées, Service de table, Plats à emporter"
+        }
+      ],
+      "address": "118 boulevard du General de Gaulle, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d12443199-Reviews-Boulangerie_Paul-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.paul.fr/fr/",
+      "number": "+33 3 20 26 39 07",
+      "contacts": {
+        "email": [
+          "cseltensperger@paul-france.com",
+          "serviceclients@paul.fr",
+          "contact@nexylan.com"
+        ],
+        "facebookUrl": ["https://www.facebook.com/paul.bakerydmv"],
+        "website": ["http://www.paul.fr/fr/"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/eric-bouillet-7140085a/",
+          "https://www.linkedin.com/in/virginie-caron-585077150/",
+          "https://www.linkedin.com/in/emeline-duchenne-459a52193/",
+          "https://www.linkedin.com/in/swann-desmedt-54885075/",
+          "https://www.linkedin.com/in/s%C3%A9bastien-guilbert-94663b13/",
+          "https://www.linkedin.com/in/karine-fiba-176b6b197/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "KFC",
+      "ranking": "Nº 104/104",
+      "details": [
+        {
+          "CUISINES": "Restauration rapide",
+          "FONCTIONNALITÉS": "Places assises"
+        }
+      ],
+      "address": "44 boulevard Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d12234850-Reviews-KFC-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.kfc.fr/",
+      "number": null,
+      "contacts": {
+        "email": ["footer-appstore@2x.png", "footer-playstore@2x.png"],
+        "facebookUrl": ["https://www.facebook.com/KFC.France"],
+        "website": ["https://www.kfc.fr/"],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/guillaume-saez-4509597b",
+          "https://fr.linkedin.com/in/antoine-hardy-71780919b",
+          "https://fr.linkedin.com/in/alexis-rodrigues-4a929614b",
+          "https://fr.linkedin.com/in/stephanie-schatz-de-sa-808273158",
+          "https://fr.linkedin.com/in/aur%C3%A9lie-njolle-70a98a178",
+          "https://fr.linkedin.com/in/laurent-mazaud-892174198",
+          "https://fr.linkedin.com/in/camillebeghin",
+          "https://www.linkedin.com/in/charleyne-dumortier-658a21155/",
+          "https://www.linkedin.com/in/medina-laghouati-9471ab17b/",
+          "https://www.linkedin.com/in/ludoviclaly/",
+          "https://fr.linkedin.com/in/alix-lagache-335349180",
+          "https://www.linkedin.com/in/anthony-delecroix-3b81b2190/",
+          "https://www.linkedin.com/in/fabrice-mory-3b6944167/",
+          "https://www.linkedin.com/in/m%C3%A9lina-mouhib-mouchou-a109b4115/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Quick",
+      "ranking": "/undefined",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "5€ - 12€",
+          "CUISINES": "Restauration rapide",
+          "Repas": "Déjeuner, Dîner"
+        }
+      ],
+      "address": "4 boulevard Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d20009452-Reviews-Quick-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.quick.fr/roubaix",
+      "number": "+33 3 20 73 38 42",
+      "contacts": {
+        "email": ["frd667@quick.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/Quick-313429339159547",
+          "https://www.facebook.com/locations",
+          "https://www.facebook.com/107519142646328"
+        ],
+        "website": [
+          "http://www.quick.fr/roubaix",
+          "https://www.quick.fr/roubaix"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/luc-deperchin-95366560/",
+          "https://fr.linkedin.com/in/hamza-benferhat-74770337",
+          "https://dz.linkedin.com/in/hamza-benferhat-87476b41",
+          "https://dz.linkedin.com/in/hamza-benferhat-87476b41/%7Bcountry%3Dpl%2C+language%3Dpl%7D?trk=people-guest_profile-result-card_result-card_full-click",
+          "https://dz.linkedin.com/in/hamza-benferhat-87476b41/%7Bcountry%3Dae%2C+language%3Dar%7D?trk=people-guest_profile-result-card_result-card_full-click",
+          "https://www.linkedin.com/in/ricardo-niaux-365a71151/",
+          "https://www.linkedin.com/in/sylvain-meddah/",
+          "https://www.linkedin.com/in/tristan-labitte-5a8743163/",
+          "https://www.linkedin.com/in/m-boo-camara-600a5a111/",
+          "https://www.linkedin.com/in/mickael-di-bella-605888112/",
+          "https://fr.linkedin.com/in/valentin-passelaigue-b83205198",
+          "https://fr.linkedin.com/in/swan-foutou-53a15a196",
+          "https://fr.linkedin.com/in/kenj-loulys-b3a548194",
+          "https://fr.linkedin.com/in/adrien-altier-027104195"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Domino's Pizza Roubaix",
+      "ranking": "/undefined",
+      "details": [
+        {
+          "Infos pratiques": "Fondée en 1960 dans le Michigan, Domino's Pizza est aujourd'hui le leader de la pizza livrée et à emporter. Des recettes incontournables telles que la Cannibale ou la 4 Fromages font aujourd'hui encore, le succès de la marque."
+        },
+        {
+          "FOURCHETTE DE PRIX": "5€ - 10€",
+          "CUISINES": "Française",
+          "Repas": "Déjeuner, Dîner"
+        }
+      ],
+      "address": "121 Boulevard Gambetta, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d15297537-Reviews-Domino_s_Pizza-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.dominos.fr/magasin/roubaix_59100?y_source=1_MTQ4MjIwMTctNzY5LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "number": "+33 3 20 83 20 20",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/dominospizzafrance"],
+        "website": [
+          "https://www.dominos.fr/magasin/roubaix_59100?y_source=1_MTQ4MjIwMTctNzY5LWxvY2F0aW9uLndlYnNpdGU%3D"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://fr.linkedin.com/in/zin%C3%A9dine-ayad-3b10bb175"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "La Cantine de l'Atelier Bricole",
+      "ranking": "/undefined",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "102 rue des Arts, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d1335552-Reviews-La_Cantine_de_l_Atelier_Bricole-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 20 76 56 19",
+      "contacts": {
+        "email": ["polymererbx@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/polymererbx",
+          "https://www.facebook.com/L-Espace-des-Createurs-963100733731214",
+          "https://www.facebook.com/tiffany.baio",
+          "https://www.facebook.com/L-Espace-des-Cr%C3%A9ateurs-963100733731214",
+          "https://www.facebook.com/castanetentransition",
+          "https://www.facebook.com/francoise.reix",
+          "https://www.facebook.com/amaniterose",
+          "https://www.facebook.com/1379934848917943",
+          "https://www.facebook.com/ellenvandenbulckeX"
+        ],
+        "website": [null, "https://polymere-roubaix.com"],
+        "allEmployeesLinkedIn": []
+      }
+    },
+    {
+      "name": "Nord Prestation Restauration",
+      "ranking": "/undefined",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "3 T rue de l Esperance, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d5865662-Reviews-Nord_Prestation_Restauration-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 9 63 26 27 37",
+      "contacts": {
+        "email": [],
+        "facebookUrl": [
+          "https://www.facebook.com/StudioSun.Roubaix",
+          "https://www.facebook.com/valentina.days.9",
+          "https://www.facebook.com/my-nem-is-163894033672820",
+          "https://www.facebook.com/MeddahTraiteur",
+          "https://www.facebook.com/Lavage-auto-a-domicile-Roubaix-Seclin-Arras-Nord-pas-de-Calais-164563180265276",
+          "https://www.facebook.com/caterer",
+          "https://www.facebook.com/Becom-279549008908800",
+          "https://www.facebook.com/groupevitaminet",
+          "https://www.facebook.com/Le-Mill%C3%A9sime-Restaurant-1203164073077025"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Laurent TRIDON",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Laurent.TRIDON.51693820.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boulangerie Patisserie de L'alma",
+      "ranking": "/undefined",
+      "details": [{ "CUISINES": "Française" }],
+      "address": "98 rue de l Alma, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d20174528-Reviews-Boulangerie_Patisserie_de_L_alma-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://www.facebook.com/Boulangerie-Orientale-Alma-772801283084896/",
+      "number": "+33 6 65 56 47 20",
+      "contacts": {
+        "email": ["boulangerieartisanalealma@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Boulangerie-Orientale-Alma-772801283084896"
+        ],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Samir BOUNOUA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Samir.BOUNOUA.67829002.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Burger House",
+      "ranking": "/undefined",
+      "details": [
+        {
+          "Infos pratiques": "The Best Of Burger est un Restaurant spécialisé dans le Burger Gourmet ( Fait Maison ) ainsi que des frites fraîches et divers salades composés, Milkshake et tiramisu sont également fait maison."
+        },
+        {
+          "FOURCHETTE DE PRIX": "6€ - 12€",
+          "CUISINES": "Française, Américaine, Allemande",
+          "Repas": "Déjeuner, Dîner"
+        }
+      ],
+      "address": "200 Avenue des Nations Unies à Roubaix, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d18313875-Reviews-The_Burger_House-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://thebestofburger.eatbu.com/",
+      "number": "+33 6 03 72 67 82",
+      "contacts": {
+        "email": ["elghafrifouad@gmail.com"],
+        "facebookUrl": [],
+        "website": [],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Mohamed KRIMOU",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Mohamed.KRIMOU.47638820.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Miye",
+      "ranking": "/undefined",
+      "details": [
+        {
+          "Infos pratiques": "Miyé est le premier restaurant privé Afro-français de la métropole Lilloise. Miyé allie modernité, produits frais et savoir-faire ancestral de la cuisine Africaine pour vous offrir une expérience gastronomique inoubliable! Son restaurant, calme et design est situé au sein du centre d'affaire Be Square à Roubaix. Le lieux idéal pour vos déjeuners privés ou repas d'affaires."
+        },
+        {
+          "FOURCHETTE DE PRIX": "15€ - 22€",
+          "CUISINES": "Africaine",
+          "Repas": "Déjeuner, Boissons",
+          "FONCTIONNALITÉS": "Service de livraison, Plats à emporter, Réservations, Places assises, Parking, Parking privé gratuit, Sert de l'alcool, American Express acceptée, Mastercard acceptée, Visa acceptée, Paiements électroniques, Wi-Fi gratuit, Accepte les cartes bancaires"
+        }
+      ],
+      "address": "62, Avenue Jean Lebas Chez Be Square, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8366495-Reviews-Miye-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.miyeflavours.com/",
+      "number": "+33 3 62 57 67 02",
+      "contacts": {
+        "email": [
+          "info@miyeflavours.com",
+          "hello@miyeflavours.com",
+          "sales@miyeflavours.com"
+        ],
+        "facebookUrl": [
+          "https://www.facebook.com/Miyeflavours",
+          "https://www.facebook.com/1379146999080841"
+        ],
+        "website": ["http://www.miyeflavours.com/"],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Franck JOLY",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Franck.JOLY.78162220.html",
+            "linkedInLink": [],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "D'Amani",
+      "ranking": "/undefined",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "11 Rue du Chemin de Fer, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d21202949-Reviews-D_Amani-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": null,
+      "contacts": {
+        "email": ["restaurantdahmani1972@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/RestaurantDahmani",
+          "https://www.facebook.com/158215290898410",
+          "https://www.facebook.com/Aman-Roubaix",
+          "https://www.facebook.com/randaamani.bayarassou",
+          "https://www.facebook.com/100004983617626"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/abdala-damani-a6433a135/"
+        ],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Le Club",
+      "ranking": "/undefined",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "4 B Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d8784094-Reviews-Le_Club-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": null,
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/leclubRoubaix"],
+        "website": [null, "http://leclubcafe.com"],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/in/iliasse-abbaze-aa5998144/",
+          "https://www.linkedin.com/in/anita-ducoulombier-82a986168/",
+          "https://www.linkedin.com/company/sarl-le-club-roubaix/",
+          "https://www.linkedin.com/in/nathalie-vendeville-5842b825/",
+          "https://www.linkedin.com/in/mohamed-taifi-1a08982/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Mohamed TAIFI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Mohamed.TAIFI.20207632.html",
+            "linkedInLink": [
+              "https://mt.linkedin.com/pub/mohamed-taifi/2/898/1a0"
+            ],
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Toscana",
+      "ranking": "/undefined",
+      "details": [{ "CUISINES": "Française, Européenne" }],
+      "address": "79 Grande rue, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d20344487-Reviews-Toscana-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 3 59 52 23 60",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/ToscanaRoubaix"],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "O'Panini",
+      "ranking": "/undefined",
+      "details": [
+        {
+          "FOURCHETTE DE PRIX": "2€ - 10€",
+          "CUISINES": "Cuisine de rue (street food)"
+        }
+      ],
+      "address": "109 rue du College, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d20997325-Reviews-O_Panini-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 9 86 26 54 40",
+      "contacts": {
+        "email": ["opaniniroubaix@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Opanini-Opanini-100866195005480",
+          "https://www.facebook.com/altat.doner.9",
+          "https://www.facebook.com/BuzzComics",
+          "https://www.facebook.com/Kebabmarmarisroubaix"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": []
+      }
+    },
+    {
+      "name": "Planète Food",
+      "ranking": "/undefined",
+      "details": [
+        {
+          "Infos pratiques": "Le restaurant planète Food est spécialisé dans les plats a base de poulet pane frais,de viandes au grill,de pain naans et de tacos,etc... L accueil dans une salle de 50 couverts allié au service de livraison a domicile."
+        },
+        { "FOURCHETTE DE PRIX": "10€ - 30€" }
+      ],
+      "address": "106 rue de Lannoy, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d9785768-Reviews-Planete_Food-Roubaix_Nord_Hauts_de_France.html",
+      "website": "http://www.planete-food.com/",
+      "number": "+33 3 20 02 17 51",
+      "contacts": {
+        "email": ["bwadi@hotmail.fr"],
+        "facebookUrl": [
+          "https://www.facebook.com/279534688922148",
+          "https://www.facebook.com/Planete-foodfr-770767102984843",
+          "https://www.facebook.com/Planete-food-279534688922148",
+          "https://www.facebook.com/Plan%C3%A8te-Food-1545212332457828",
+          "https://www.facebook.com/1545212332457828",
+          "https://www.facebook.com/770767102984843",
+          "https://www.facebook.com/restaurateur59"
+        ],
+        "website": [
+          "http://www.planete-food.com/",
+          "http://www.planete-food.fr"
+        ],
+        "allEmployeesLinkedIn": [
+          "https://www.linkedin.com/company/plan%C3%A8te-food/"
+        ],
+        "execsInfos": [
+          {
+            "execName": "Haithem GZOUNI",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Haithem.GZOUNI.48637022.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "Afrikan Korner",
+      "ranking": "/undefined",
+      "details": [
+        { "FOURCHETTE DE PRIX": "5€ - 20€", "CUISINES": "Africaine" }
+      ],
+      "address": "16 avenue Jean Baptiste Lebas, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17431352-Reviews-Afrikan_Korner-Roubaix_Nord_Hauts_de_France.html",
+      "website": null,
+      "number": "+33 9 86 76 34 36",
+      "contacts": {
+        "email": ["afrikankorner@gmail.com"],
+        "facebookUrl": [
+          "https://www.facebook.com/Afrikan-Korner-266905350445454",
+          "https://www.facebook.com/AfricanCorner"
+        ],
+        "website": [null],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Basil AWUNGIA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Basil.AWUNGIA.67322063.html",
+            "fbExec": []
+          }
+        ]
+      }
+    },
+    {
+      "name": "El Baroque",
+      "ranking": "/undefined",
+      "details": [
+        {},
+        { "": "Améliorez cette page en important des photos !" },
+        {}
+      ],
+      "address": "18 Rue du Général Sarrail, 59100 Roubaix France",
+      "tripAdvisorLink": "https://www.tripadvisor.fr/Restaurant_Review-g196637-d17706210-Reviews-El_Baroque-Roubaix_Nord_Hauts_de_France.html",
+      "website": "https://el-baroque-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+      "number": "+33 3 74 46 12 17",
+      "contacts": {
+        "email": [],
+        "facebookUrl": ["https://www.facebook.com/elbaroqueroubaix"],
+        "website": [
+          "https://el-baroque-restaurant.business.site/?utm_source=gmb&utm_medium=referral"
+        ],
+        "allEmployeesLinkedIn": [],
+        "execsInfos": [
+          {
+            "execName": "Karim BENATIA",
+            "societeLink": "https://dirigeant.societe.com/dirigeant/Karim.BENATIA.67025044.html",
+            "fbExec": []
+          }
+        ]
+      }
+    }
+  ]
+}
